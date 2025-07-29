@@ -1,63 +1,53 @@
 BEGIN:VCALENDAR
-PRODID:-//Google Inc//Google Calendar 70.9054//EN
+METHOD:CANCEL
+PRODID:Microsoft Exchange Server 2010
 VERSION:2.0
-CALSCALE:GREGORIAN
-METHOD:REQUEST
 BEGIN:VTIMEZONE
-TZID:America/New_York
-X-LIC-LOCATION:America/New_York
-BEGIN:DAYLIGHT
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0400
-TZNAME:EDT
-DTSTART:19700308T020000
-RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
-END:DAYLIGHT
+TZID:Eastern Standard Time
 BEGIN:STANDARD
+DTSTART:16010101T020000
 TZOFFSETFROM:-0400
 TZOFFSETTO:-0500
-TZNAME:EST
-DTSTART:19701101T020000
-RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=1SU;BYMONTH=11
 END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=2SU;BYMONTH=3
+END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20250430T090000
-DTEND;TZID=America/New_York:20250430T103000
-DTSTAMP:20250429T123101Z
-ORGANIZER;CN=Heather Potocki:mailto:potockih@aaps.k12.mi.us
-UID:g16u0bncl38qaaf3jq0j0pcqt4@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
- ;CN=Samuel Butler;X-NUM-GUESTS=0:mailto:316785@aaps.k12.mi.us
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
- ;CN=Heather Potocki;X-NUM-GUESTS=0:mailto:potockih@aaps.k12.mi.us
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
- TRUE;CN=aron.butler@gmail.com;X-NUM-GUESTS=0:mailto:aron.butler@gmail.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
- TRUE;CN=simonao@umich.edu;X-NUM-GUESTS=0:mailto:simonao@umich.edu
-X-GOOGLE-CONFERENCE:https://meet.google.com/ngd-nhbn-tbm
-X-MICROSOFT-CDO-OWNERAPPTID:-1171301258
-CREATED:20250404T172110Z
-DESCRIPTION:<b>Booked by</b>\nSamuel Butler\n316785@aaps.k12.mi.us\n<br><b>
- Are parents joining?  If so\, do I need to provide a Google Meet link?</b>\
- nno\n<br><b>Congratulations on scheduling your Junior Interview!</b><br><b>
- <br></b><br>As a reminder\, you <b>need to bring with you a completed Junio
- r Interview Packet</b> to your interview!<br><br>Reminders for this intervi
- ew will NOT be given.? <b>YOU need to show up on time for YOUR appointment.
- </b><br><br>If you cannot make the interview\, <i>please cancel at least 24
- hrs in advance.</i><br><br>If YOU want them there\, parents are welcome to 
- join\, in person or by Google Meet\, whichever works best.\n\n-::~:~::~:~:~
- :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\
- nJoin with Google Meet: https://meet.google.com/ngd-nhbn-tbm\nOr dial: (US)
-  +1 574-313-1074 PIN: 248258326#\n\nLearn more about Meet at: https://suppo
- rt.google.com/a/users/answer/9282720\n\nPlease do not edit this section.\n-
- ::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
- ~:~::~:~::-
-LAST-MODIFIED:20250429T123059Z
-LOCATION:Counseling Office
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Junior Interview Slots (Samuel Butler)
-TRANSP:OPAQUE
+ORGANIZER;CN="Butler, Simona":mailto:simonao@med.umich.edu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=aron.butle
+ r@gmail.com:mailto:aron.butler@gmail.com
+DESCRIPTION;LANGUAGE=en-US:Bulgarian cultural center is inviting you to a s
+ cheduled Zoom meeting.\nJoin Zoom Meeting\nhttps://us06web.zoom.us/j/81070
+ 994900?pwd=l8xEn6H99yQMHMmeZNxas2BE6JbSSh.1\n\nMeeting ID: 810 7099 4900\n
+ Passcode: 758457\n
+UID:040000008200E00074C5B7101A82E0080000000010AD647D1C85DB01000000000000000
+ 0100000004FC2218FC4049941977C1FEB9EEE5B98
+RECURRENCE-ID;TZID=Eastern Standard Time:20250406T120000
+SUMMARY;LANGUAGE=en-US:Canceled: Bulgarian lesson
+DTSTART;TZID=Eastern Standard Time:20250406T120000
+DTEND;TZID=Eastern Standard Time:20250406T130000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20250405T003022Z
+TRANSP:TRANSPARENT
+STATUS:CANCELLED
+SEQUENCE:6
+LOCATION;LANGUAGE=en-US:Zoom
+X-MICROSOFT-CDO-APPT-SEQUENCE:6
+X-MICROSOFT-CDO-OWNERAPPTID:-225040407
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
 END:VEVENT
 END:VCALENDAR
