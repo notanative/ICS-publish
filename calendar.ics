@@ -18,87 +18,54 @@ RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=2SU;BYMONTH=3
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-ORGANIZER;CN=Craig Blasiman:mailto:craig.blasiman@hantzgroup.com
-ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Anthony La
- Combe:mailto:Anthony.LaCombe@hantzgroup.com
-ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Simona But
- ler:mailto:simonao@umich.edu
-ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Aron Butle
- r:mailto:aron.butler@gmail.com
-DESCRIPTION;LANGUAGE=en-US:For our upcoming meeting\nHomework Assignments\n
- Due Date : 06/02/2025\n\n  *   Connect To Hantz360\n     *   Loans (auto\,
-  student loans\, personal loans\, etc.)\n        *   Or edit current balan
- ces\n\n___________________________________________________________________
- _____________\nMicrosoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?
- omkt=en-GB>\nJoin the meeting now<https://teams.microsoft.com/l/meetup-joi
- n/19%3ameeting_M2MxYThiZDgtNzI3NC00YWU1LTljOTktNzNhOGNiNTUzNGVi%40thread.v
- 2/0?context=%7b%22Tid%22%3a%224289b6e8-0c8a-4386-8909-0f58ee3ab4eb%22%2c%2
- 2Oid%22%3a%22e1e8fb31-4842-4832-b639-25f7ed7e4f5d%22%7d>\nMeeting ID: 295 
- 723 197 673 5\nPasscode: 92d5sD6u\n________________________________\nFor o
- rganisers: Meeting options<https://teams.microsoft.com/meetingOptions/?org
- anizerId=e1e8fb31-4842-4832-b639-25f7ed7e4f5d&tenantId=4289b6e8-0c8a-4386-
- 8909-0f58ee3ab4eb&threadId=19_meeting_M2MxYThiZDgtNzI3NC00YWU1LTljOTktNzNh
- OGNiNTUzNGVi@thread.v2&messageId=0&language=en-GB>\n[https://clients.hantz
- group.com/img/HantzGroup_Teams.png]\nOrg help<https://helpdesk.hantztech.c
- om/> | Privacy and security<https://clients.hantzgroup.com/secure/about-pr
- ivacy.aspx>\n_____________________________________________________________
- ___________________\n\n________________________________\n\nTHIS COMMUNICAT
- ION IS INTENDED ONLY FOR THE USE OF THE INDIVIDUAL OR ENTITY TO WHICH IT I
- S ADDRESSED AND CONTAINS OR MAY CONTAIN INFORMATION THAT IS PRIVILEGED\, C
- ONFIDENTIAL OR EXEMPT FROM DISCLOSURE UNDER APPLICABLE LAW. If the reader 
- of this communication is not the intended recipient (or the employee or ag
- ent responsible for delivering to the intended recipient)\, you are hereby
-  notified that any dissemination\, distribution\, or copying of this commu
- nication is strictly prohibited. If you have received this communication i
- n error\, please disregard and delete this communication. Do not dissemina
- te or retain any copy of this communication\, or any attachments.\n
-UID:040000008200E00074C5B7101A82E008000000002FA3768E95BEDB01000000000000000
- 0100000000F9CA7A010BF6344B804ED3E965C3E79
-SUMMARY;LANGUAGE=en-US:Deep Dive - Butler
-DTSTART;TZID=Eastern Standard Time:20250602T090000
-DTEND;TZID=Eastern Standard Time:20250602T110000
+ORGANIZER;CN="Butler, Simona":mailto:simonao@med.umich.edu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=aron.butle
+ r@gmail.com:mailto:aron.butler@gmail.com
+DESCRIPTION;LANGUAGE=en-US:\n\n Simona Ouzounova Butler is inviting you to 
+ a scheduled Zoom meeting.\nJoin Zoom Meeting\nhttps://umich.zoom.us/j/9168
+ 9147129?from=addon\n\nMeeting ID: 916 8914 7129\nPasscode: 1\n\n---\n\nOne
+  tap mobile\n+13126266799\,\,91689147129#\,\,\,\,*1# US (Chicago)\n+164687
+ 69923\,\,91689147129#\,\,\,\,*1# US (New York)\n\n---\n\nDial by your loca
+ tion\n? +1 312 626 6799 US (Chicago)\n? +1 646 876 9923 US (New York)\
+ n? +1 646 931 3860 US\n? +1 301 715 8592 US (Washington DC)\n? +1 30
+ 5 224 1968 US\n? +1 309 205 3325 US\n? +1 360 209 5623 US\n? +1 386 
+ 347 5053 US\n? +1 507 473 4847 US\n? +1 564 217 2000 US\n? +1 669 44
+ 4 9171 US\n? +1 669 900 6833 US (San Jose)\n? +1 689 278 1000 US\n? 
+ +1 719 359 4580 US\n? +1 253 205 0468 US\n? +1 253 215 8782 US (Tacoma
+ )\n? +1 346 248 7799 US (Houston)\n\nMeeting ID: 916 8914 7129\nPasscode
+ : 1\n\nFind your local number: https://umich.zoom.us/u/alIkoh9JP\n\n---\n\
+ nJoin by SIP\n? 91689147129@zoomcrc.com<mailto:91689147129@zoomcrc.com>\
+ n
+UID:040000008200E00074C5B7101A82E0080000000030F0882999C5DB01000000000000000
+ 01000000026C3206D8C80014EA8A61755B92AAF37
+SUMMARY;LANGUAGE=en-US:Simona Ouzounova Butler's Zoom Meeting
+DTSTART;TZID=Eastern Standard Time:20250515T130000
+DTEND;TZID=Eastern Standard Time:20250515T143000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20250530T140459Z
+DTSTAMP:20250515T170023Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
-SEQUENCE:3
-LOCATION;LANGUAGE=en-US:2400 GREEN ROAD\, ANN ARBOR\, MI 48105\, United Sta
- tes
-X-MICROSOFT-CDO-APPT-SEQUENCE:3
-X-MICROSOFT-CDO-OWNERAPPTID:2123707694
+SEQUENCE:0
+LOCATION;LANGUAGE=en-US:https://umich.zoom.us/j/91689147129?from=addon
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-OWNERAPPTID:-1517332503
 X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
 X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 X-MICROSOFT-CDO-IMPORTANCE:1
 X-MICROSOFT-CDO-INSTTYPE:0
-X-MICROSOFT-ONLINEMEETINGINFORMATION:{"OnlineMeetingChannelId":null\,"Onlin
- eMeetingProvider":3}
-X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
- 19%3ameeting_M2MxYThiZDgtNzI3NC00YWU1LTljOTktNzNhOGNiNTUzNGVi%40thread.v2/
- 0?context=%7b%22Tid%22%3a%224289b6e8-0c8a-4386-8909-0f58ee3ab4eb%22%2c%22O
- id%22%3a%22e1e8fb31-4842-4832-b639-25f7ed7e4f5d%22%7d
-X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.microsof
- t.com/teams/4289b6e8-0c8a-4386-8909-0f58ee3ab4eb/e1e8fb31-4842-4832-b639-2
- 5f7ed7e4f5d/19_meeting_M2MxYThiZDgtNzI3NC00YWU1LTljOTktNzNhOGNiNTUzNGVi@th
- read.v2/0
-X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_M2MxYThiZDgtNzI3NC00YWU
- 1LTljOTktNzNhOGNiNTUzNGVi@thread.v2"\,"rid":0\,"mid":0\,"uid":null\,"priva
- te":true\,"type":0}
 X-MICROSOFT-DONOTFORWARDMEETING:FALSE
 X-MICROSOFT-DISALLOW-COUNTER:FALSE
 X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
-X-MICROSOFT-LOCATIONSOURCE:Resource
-X-MICROSOFT-LOCATIONSTREET:2400 GREEN ROAD
-X-MICROSOFT-LOCATIONCITY:ANN ARBOR
-X-MICROSOFT-LOCATIONSTATE:MI
-X-MICROSOFT-LOCATIONCOUNTRY:United States
-X-MICROSOFT-LOCATIONPOSTALCODE:48105
-X-MICROSOFT-LOCATIONS:[{"DisplayName":""\,"LocationAnnotation":""\,"Locatio
- nSource":5\,"LocationUri":""\,"LocationStreet":"2400 GREEN ROAD"\,"Locatio
- nCity":"ANN ARBOR"\,"LocationState":"MI"\,"LocationCountry":"United States
- "\,"LocationPostalCode":"48105"\,"LocationFullAddress":"2400 GREEN ROAD\\r
- \\nANN ARBOR\, MI 48105\\r\\nUnited States"}]
+X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "https://umich.zoom.us/j/91689147
+ 129?from=addon"\, "LocationAnnotation" : ""\, "LocationSource" : 0\, "Unre
+ solved" : false\, "LocationUri" : "" } ]
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
 END:VEVENT
 END:VCALENDAR
