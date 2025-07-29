@@ -21,45 +21,73 @@ BEGIN:VEVENT
 ORGANIZER;CN=Craig Blasiman:mailto:craig.blasiman@hantzgroup.com
 ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Aron Butle
  r:mailto:aron.butler@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Simona But
+ ler:mailto:simonao@umich.edu
 DESCRIPTION;LANGUAGE=en-US:For our upcoming meeting\n\n____________________
- ____________\n\nTHIS COMMUNICATION IS INTENDED ONLY FOR THE USE OF THE IND
- IVIDUAL OR ENTITY TO WHICH IT IS ADDRESSED AND CONTAINS OR MAY CONTAIN INF
- ORMATION THAT IS PRIVILEGED\, CONFIDENTIAL OR EXEMPT FROM DISCLOSURE UNDER
-  APPLICABLE LAW. If the reader of this communication is not the intended r
- ecipient (or the employee or agent responsible for delivering to the inten
- ded recipient)\, you are hereby notified that any dissemination\, distribu
- tion\, or copying of this communication is strictly prohibited. If you hav
- e received this communication in error\, please disregard and delete this 
- communication. Do not disseminate or retain any copy of this communication
- \, or any attachments.\n
-UID:040000008200E00074C5B7101A82E00800000000A6AE552AD9D3DB01000000000000000
- 010000000626706C9865CDD4EBD4C81BC92CD2A75
-SUMMARY;LANGUAGE=en-US:Samuel Half Day at Hantz
-DTSTART;TZID=Eastern Standard Time:20250711T080000
-DTEND;TZID=Eastern Standard Time:20250711T130000
+ ____________________________________________________________\nMicrosoft Te
+ ams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-GB>\nJoin the meeti
+ ng now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjQ3YWMzZTYt
+ OWY0Mi00OGY2LTkzMjctOWFmZjA0YjY3Njc5%40thread.v2/0?context=%7b%22Tid%22%3a
+ %224289b6e8-0c8a-4386-8909-0f58ee3ab4eb%22%2c%22Oid%22%3a%22e1e8fb31-4842-
+ 4832-b639-25f7ed7e4f5d%22%7d>\nMeeting ID: 297 546 809 031 6\nPasscode: CF
+ 33nC3Z\n________________________________\nFor organisers: Meeting options<
+ https://teams.microsoft.com/meetingOptions/?organizerId=e1e8fb31-4842-4832
+ -b639-25f7ed7e4f5d&tenantId=4289b6e8-0c8a-4386-8909-0f58ee3ab4eb&threadId=
+ 19_meeting_NjQ3YWMzZTYtOWY0Mi00OGY2LTkzMjctOWFmZjA0YjY3Njc5@thread.v2&mess
+ ageId=0&language=en-GB>\n[https://clients.hantzgroup.com/img/HantzGroup_Te
+ ams.png]\nOrg help<https://helpdesk.hantztech.com/> | Privacy and security
+ <https://clients.hantzgroup.com/secure/about-privacy.aspx>\n______________
+ __________________________________________________________________\n\n____
+ ____________________________\n\nTHIS COMMUNICATION IS INTENDED ONLY FOR TH
+ E USE OF THE INDIVIDUAL OR ENTITY TO WHICH IT IS ADDRESSED AND CONTAINS OR
+  MAY CONTAIN INFORMATION THAT IS PRIVILEGED\, CONFIDENTIAL OR EXEMPT FROM 
+ DISCLOSURE UNDER APPLICABLE LAW. If the reader of this communication is no
+ t the intended recipient (or the employee or agent responsible for deliver
+ ing to the intended recipient)\, you are hereby notified that any dissemin
+ ation\, distribution\, or copying of this communication is strictly prohib
+ ited. If you have received this communication in error\, please disregard 
+ and delete this communication. Do not disseminate or retain any copy of th
+ is communication\, or any attachments.\n
+UID:040000008200E00074C5B7101A82E00800000000DB454DFBD8D3DB01000000000000000
+ 010000000F88F20925BFD5E43B023B10E9B9CCE5F
+SUMMARY;LANGUAGE=en-US:Planning Follow Up - Butler
+DTSTART;TZID=Eastern Standard Time:20250606T093000
+DTEND;TZID=Eastern Standard Time:20250606T100000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20250602T161241Z
+DTSTAMP:20250602T161124Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
-LOCATION;LANGUAGE=en-US:Taylor
+LOCATION;LANGUAGE=en-US:Teams
 X-MICROSOFT-CDO-APPT-SEQUENCE:0
-X-MICROSOFT-CDO-OWNERAPPTID:2123763823
+X-MICROSOFT-CDO-OWNERAPPTID:2123765199
 X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
 X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 X-MICROSOFT-CDO-IMPORTANCE:1
 X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-ONLINEMEETINGINFORMATION:{"OnlineMeetingChannelId":null\,"Onlin
+ eMeetingProvider":3}
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_NjQ3YWMzZTYtOWY0Mi00OGY2LTkzMjctOWFmZjA0YjY3Njc5%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%224289b6e8-0c8a-4386-8909-0f58ee3ab4eb%22%2c%22O
+ id%22%3a%22e1e8fb31-4842-4832-b639-25f7ed7e4f5d%22%7d
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.microsof
+ t.com/teams/4289b6e8-0c8a-4386-8909-0f58ee3ab4eb/e1e8fb31-4842-4832-b639-2
+ 5f7ed7e4f5d/19_meeting_NjQ3YWMzZTYtOWY0Mi00OGY2LTkzMjctOWFmZjA0YjY3Njc5@th
+ read.v2/0
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_NjQ3YWMzZTYtOWY0Mi00OGY
+ 2LTkzMjctOWFmZjA0YjY3Njc5@thread.v2"\,"rid":0\,"mid":0\,"uid":null\,"priva
+ te":true\,"type":0}
 X-MICROSOFT-DONOTFORWARDMEETING:FALSE
 X-MICROSOFT-DISALLOW-COUNTER:FALSE
 X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
-X-MICROSOFT-LOCATIONDISPLAYNAME:Taylor
+X-MICROSOFT-LOCATIONDISPLAYNAME:Teams
 X-MICROSOFT-LOCATIONSOURCE:None
-X-MICROSOFT-LOCATIONS:[{"DisplayName":"Taylor"\,"LocationAnnotation":""\,"L
- ocationUri":""\,"LocationStreet":""\,"LocationCity":""\,"LocationState":""
- \,"LocationCountry":""\,"LocationPostalCode":""\,"LocationFullAddress":""}
- ]
+X-MICROSOFT-LOCATIONS:[{"DisplayName":"Teams"\,"LocationAnnotation":""\,"Lo
+ cationUri":""\,"LocationStreet":""\,"LocationCity":""\,"LocationState":""\
+ ,"LocationCountry":""\,"LocationPostalCode":""\,"LocationFullAddress":""}]
 END:VEVENT
 END:VCALENDAR
