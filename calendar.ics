@@ -1,64 +1,63 @@
 BEGIN:VCALENDAR
-METHOD:REQUEST
-PRODID:Microsoft Exchange Server 2010
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
 VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
 BEGIN:VTIMEZONE
-TZID:Eastern Standard Time
-BEGIN:STANDARD
-DTSTART:16010101T020000
-TZOFFSETFROM:-0400
-TZOFFSETTO:-0500
-RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=1SU;BYMONTH=11
-END:STANDARD
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
 BEGIN:DAYLIGHT
-DTSTART:16010101T020000
 TZOFFSETFROM:-0500
 TZOFFSETTO:-0400
-RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=2SU;BYMONTH=3
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
 END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-ORGANIZER;CN="Butler, Simona":mailto:simonao@med.umich.edu
-ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=aron.butle
- r@gmail.com:mailto:aron.butler@gmail.com
-DESCRIPTION;LANGUAGE=en-US:Antoaneta Behm is inviting you to a scheduled Zo
- om meeting.\n\nTopic: Antoaneta Behm's Zoom Meeting\nTime: May 4\, 2025 11
- :00 AM Eastern Time (US and Canada)\n        Every week on Sun\, until Jun
-  29\, 2025\, 9 occurrence(s)\nPlease download and import the following iCa
- lendar (.ics) files to your calendar system.\nWeekly: https://us06web.zoom
- .us/meeting/tZwscOygrzsrGtzBqIAcBF90GYGSgPcsNLX6/ics?icsToken=DJmZdeLBCPRM
- tq6lBwAALAAAAGmh0lbuIYzLFERkI0kvTiXd7lVXM_DAOO451uHSMPFkZhD2APsaTlQWeIoyJq
- ono5o33zsW3GeFTE6suzAwMDAwMQ\nJoin Zoom Meeting\nhttps://us06web.zoom.us/j
- /88175810108?pwd=D8zljBoai5M2AfBa2NUx8HaRrJHNeJ.1\n\nMeeting ID: 881 7581 
- 0108\nPasscode: 4IeZm6\n
-UID:040000008200E00074C5B7101A82E008000000001377422D14BEDB01000000000000000
- 0100000006D5E4A92261CF84092FD274D559652BC
-SUMMARY;LANGUAGE=en-US:Bulgarian lesson
-DTSTART;TZID=Eastern Standard Time:20250518T100000
-DTEND;TZID=Eastern Standard Time:20250518T110000
-CLASS:PUBLIC
-PRIORITY:5
-DTSTAMP:20250505T232017Z
-TRANSP:OPAQUE
-STATUS:CONFIRMED
+DTSTART;TZID=America/New_York:20250430T090000
+DTEND;TZID=America/New_York:20250430T103000
+DTSTAMP:20250429T123101Z
+ORGANIZER;CN=Heather Potocki:mailto:potockih@aaps.k12.mi.us
+UID:g16u0bncl38qaaf3jq0j0pcqt4@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=Samuel Butler;X-NUM-GUESTS=0:mailto:316785@aaps.k12.mi.us
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=Heather Potocki;X-NUM-GUESTS=0:mailto:potockih@aaps.k12.mi.us
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=aron.butler@gmail.com;X-NUM-GUESTS=0:mailto:aron.butler@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=simonao@umich.edu;X-NUM-GUESTS=0:mailto:simonao@umich.edu
+X-GOOGLE-CONFERENCE:https://meet.google.com/ngd-nhbn-tbm
+X-MICROSOFT-CDO-OWNERAPPTID:-1171301258
+CREATED:20250404T172110Z
+DESCRIPTION:<b>Booked by</b>\nSamuel Butler\n316785@aaps.k12.mi.us\n<br><b>
+ Are parents joining?  If so\, do I need to provide a Google Meet link?</b>\
+ nno\n<br><b>Congratulations on scheduling your Junior Interview!</b><br><b>
+ <br></b><br>As a reminder\, you <b>need to bring with you a completed Junio
+ r Interview Packet</b> to your interview!<br><br>Reminders for this intervi
+ ew will NOT be given.? <b>YOU need to show up on time for YOUR appointment.
+ </b><br><br>If you cannot make the interview\, <i>please cancel at least 24
+ hrs in advance.</i><br><br>If YOU want them there\, parents are welcome to 
+ join\, in person or by Google Meet\, whichever works best.\n\n-::~:~::~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\
+ nJoin with Google Meet: https://meet.google.com/ngd-nhbn-tbm\nOr dial: (US)
+  +1 574-313-1074 PIN: 248258326#\n\nLearn more about Meet at: https://suppo
+ rt.google.com/a/users/answer/9282720\n\nPlease do not edit this section.\n-
+ ::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~::~:~::-
+LAST-MODIFIED:20250429T123059Z
+LOCATION:Counseling Office
 SEQUENCE:0
-LOCATION;LANGUAGE=en-US:
-X-MICROSOFT-CDO-APPT-SEQUENCE:0
-X-MICROSOFT-CDO-OWNERAPPTID:2123704541
-X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:0
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
-X-MICROSOFT-LOCATIONS:[]
-BEGIN:VALARM
-DESCRIPTION:REMINDER
-TRIGGER;RELATED=START:-PT10M
-ACTION:DISPLAY
-END:VALARM
+STATUS:CONFIRMED
+SUMMARY:Junior Interview Slots (Samuel Butler)
+TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
