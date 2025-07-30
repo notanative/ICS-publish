@@ -1,93 +1,62 @@
 BEGIN:VCALENDAR
-METHOD:REQUEST
-PRODID:Microsoft Exchange Server 2010
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
 VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
 BEGIN:VTIMEZONE
-TZID:Eastern Standard Time
-BEGIN:STANDARD
-DTSTART:16010101T020000
-TZOFFSETFROM:-0400
-TZOFFSETTO:-0500
-RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=1SU;BYMONTH=11
-END:STANDARD
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
 BEGIN:DAYLIGHT
-DTSTART:16010101T020000
 TZOFFSETFROM:-0500
 TZOFFSETTO:-0400
-RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=2SU;BYMONTH=3
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
 END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-ORGANIZER;CN=Heather Potocki;SENT-BY="mailto:simonao@med.umich.edu":mailto:po
- tockih@aaps.k12.mi.us
-ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=aron.butle
- r@gmail.com:mailto:aron.butler@gmail.com
-ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=simonao@um
- ich.edu:mailto:simonao@umich.edu
-ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Samuel But
- ler:mailto:316785@aaps.k12.mi.us
-ATTACH:CID:B159CFBB981B0449A4C0346E07E0946E@namprd08.prod.outlook.com
-DESCRIPTION;LANGUAGE=en-US:\n\n-----Original Appointment-----\nFrom: Heathe
- r Potocki <potockih@aaps.k12.mi.us>\nSent: Tuesday\, January 21\, 2025 2:1
- 9 PM\nTo: Heather Potocki\; simonao@umich.edu\; Samuel Butler\; aron.butle
- r@gmail.com\nSubject: Available Appointments (Sam Butler)\nWhen: Friday\, 
- January 24\, 2025 10:15 AM-10:45 AM America/New_York.\nWhere:\n\n\n\nThis 
- event has been updated with a note:\n"Updated with the Google Meet link."\
- nChanged: title\, conferencing\n\n\n\nJoin with Google Meet<https://meet.g
- oogle.com/mxb-kcvz-may?hs=224>\nMeeting link\nmeet.google.com/mxb-kcvz-may
- <https://meet.google.com/mxb-kcvz-may?hs=224>\nTest your setup<https://mee
- t.google.com/mxb-kcvz-may?hs=224> any time before your appointment.\nNew t
- o Google Meet?\nLearn more<https://support.google.com/a/users/answer/92827
- 20> about getting started.\n\nJoin by phone\n(US) +1 424-338-4058<tel:+1-4
- 24-338-4058%3B225241390%23>\nPIN: 225241390\nAvailable Appointments (Sam B
- utler)\nFriday Jan 24\, 2025 ? 10:15am ? 10:45am (Eastern Time - New Y
- ork)\nBooked by\nSimona Butler\nsimonao@umich.edu<mailto:simonao@umich.edu
- >\n\nTopic to Discuss\nSAT vs. ACT\, SAT Prep courses\, Retaking Geometry 
- to improve course grade?\, etc.\n\nLocation for Meeting (in-person\, zoom\
- , phone)\nSammy in person(he has completed his reflection for CP Core\, so
-  does not need to be in class for a final exam\, Simona and Aron(aron.butl
- er@gmail.com<mailto:aron.butler@gmail.com>) via Zoom.\n\nWhen booking an a
- ppointment\, please mention what the meeting request is in reference to.\n
- \nFor parents\, please note if this is going to be in-person\, phone\, or 
- through Zoom.\nCancel appointment<https://calendar.google.com/calendar/app
- ointments/booking/AcZssZ1w46Dl_rTnCvwfX9TtOMMzdAgGwR_wK6Gcqo6ZHKEYKfCYD9Tl
- ykM2kWmsv14bd8SChu_tV70O>\nBook another appointment<https://calendar.googl
- e.com/calendar/appointments/schedules/AcZssZ0pEmRsRO3Tw9328GADuF11xOqhpLU8
- YrtoBzdUq6H16Y0vBH6o35t5QqbsYWyBmqXjImdwOxle>\n\n[https://www.gstatic.com/
- images/branding/googlelogo/1x/googlelogo_grey_tm_color_96x40dp.png]\n\nPow
- ered by Google Calendar appointment scheduling<https://workspace.google.co
- m/resources/appointment-scheduling/>. Use is subject to the Google Privacy
-  Policy<https://policies.google.com/privacy> and Terms of Service<https://
- policies.google.com/terms>.\n\nYou are receiving this email because you ar
- e included on the guest list for this booked appointment.\n\nForwarding th
- is invitation could allow any recipient to cancel on your behalf.\n\n
+DTSTART;TZID=America/New_York:20250124T101500
+DTEND;TZID=America/New_York:20250124T104500
+DTSTAMP:20250124T135746Z
+ORGANIZER;CN=Heather Potocki:mailto:potockih@aaps.k12.mi.us
 UID:nglg0vm5itgk0sk60qhp8g95g4@google.com
-SUMMARY;LANGUAGE=en-US:FW: Available Appointments (Sam Butler)
-DTSTART;TZID=Eastern Standard Time:20250124T101500
-DTEND;TZID=Eastern Standard Time:20250124T104500
-CLASS:PUBLIC
-PRIORITY:5
-DTSTAMP:20250124T135745Z
-TRANSP:OPAQUE
-STATUS:CONFIRMED
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=Heather Potocki;X-NUM-GUESTS=0:mailto:potockih@aaps.k12.mi.us
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=simonao@umich.edu;X-NUM-GUESTS=0:mailto:simonao@umich.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Samuel Butler;X-NUM-GUESTS=0:mailto:316785@aaps.k12.mi.us
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=aron.butler@gmail.com;X-NUM-GUESTS=0:mailto:aron.butler@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/mxb-kcvz-may
+X-MICROSOFT-CDO-OWNERAPPTID:827053414
+CREATED:20250121T191849Z
+DESCRIPTION:<b>Booked by</b>\nSimona Butler\nsimonao@umich.edu\n<br><b>Topi
+ c to Discuss</b>\nSAT vs. ACT\, SAT Prep courses\, Retaking Geometry to imp
+ rove course grade?\, etc.\n<br><b>Location for Meeting (in-person\, zoom\, 
+ phone)</b>\nSammy in person(he has completed his reflection for CP Core\, s
+ o does not need to be in class for a final exam\, Simona and Aron(aron.butl
+ er@gmail.com) via Zoom. \n<br>When booking an appointment\, please mention 
+ what the meeting request is in reference to.\n\nFor parents\, please note i
+ f this is going to be in-person\, phone\, or through Zoom.\n\n-::~:~::~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\
+ nJoin with Google Meet: https://meet.google.com/mxb-kcvz-may\nOr dial: (US)
+  +1 424-338-4058 PIN: 225241390#\n\nLearn more about Meet at: https://suppo
+ rt.google.com/a/users/answer/9282720\n\nPlease do not edit this section.\n-
+ ::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~::~:~::-
+LAST-MODIFIED:20250124T135745Z
+LOCATION:
 SEQUENCE:0
-LOCATION;LANGUAGE=en-US:
-X-MICROSOFT-CDO-APPT-SEQUENCE:0
-X-MICROSOFT-CDO-OWNERAPPTID:296863001
-X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:0
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
-X-MICROSOFT-LOCATIONS:[]
-BEGIN:VALARM
-DESCRIPTION:REMINDER
-TRIGGER;RELATED=START:-PT10M
-ACTION:DISPLAY
-END:VALARM
+STATUS:CONFIRMED
+SUMMARY:Available Appointments (Sam Butler)
+TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
