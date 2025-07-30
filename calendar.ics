@@ -1,62 +1,99 @@
 BEGIN:VCALENDAR
-PRODID:-//Google Inc//Google Calendar 70.9054//EN
 VERSION:2.0
-CALSCALE:GREGORIAN
-METHOD:REQUEST
-BEGIN:VTIMEZONE
-TZID:America/New_York
-X-LIC-LOCATION:America/New_York
-BEGIN:DAYLIGHT
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0400
-TZNAME:EDT
-DTSTART:19700308T020000
-RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
-END:DAYLIGHT
-BEGIN:STANDARD
-TZOFFSETFROM:-0400
-TZOFFSETTO:-0500
-TZNAME:EST
-DTSTART:19701101T020000
-RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
-END:STANDARD
-END:VTIMEZONE
+METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20250124T101500
-DTEND;TZID=America/New_York:20250124T104500
-DTSTAMP:20250124T135746Z
-ORGANIZER;CN=Heather Potocki:mailto:potockih@aaps.k12.mi.us
-UID:nglg0vm5itgk0sk60qhp8g95g4@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
- ;CN=Heather Potocki;X-NUM-GUESTS=0:mailto:potockih@aaps.k12.mi.us
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
- ;CN=simonao@umich.edu;X-NUM-GUESTS=0:mailto:simonao@umich.edu
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
- TRUE;CN=Samuel Butler;X-NUM-GUESTS=0:mailto:316785@aaps.k12.mi.us
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
- TRUE;CN=aron.butler@gmail.com;X-NUM-GUESTS=0:mailto:aron.butler@gmail.com
-X-GOOGLE-CONFERENCE:https://meet.google.com/mxb-kcvz-may
-X-MICROSOFT-CDO-OWNERAPPTID:827053414
-CREATED:20250121T191849Z
-DESCRIPTION:<b>Booked by</b>\nSimona Butler\nsimonao@umich.edu\n<br><b>Topi
- c to Discuss</b>\nSAT vs. ACT\, SAT Prep courses\, Retaking Geometry to imp
- rove course grade?\, etc.\n<br><b>Location for Meeting (in-person\, zoom\, 
- phone)</b>\nSammy in person(he has completed his reflection for CP Core\, s
- o does not need to be in class for a final exam\, Simona and Aron(aron.butl
- er@gmail.com) via Zoom. \n<br>When booking an appointment\, please mention 
- what the meeting request is in reference to.\n\nFor parents\, please note i
- f this is going to be in-person\, phone\, or through Zoom.\n\n-::~:~::~:~:~
- :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\
- nJoin with Google Meet: https://meet.google.com/mxb-kcvz-may\nOr dial: (US)
-  +1 424-338-4058 PIN: 225241390#\n\nLearn more about Meet at: https://suppo
- rt.google.com/a/users/answer/9282720\n\nPlease do not edit this section.\n-
- ::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
- ~:~::~:~::-
-LAST-MODIFIED:20250124T135745Z
+DTSTART:20240310T204500Z
+DTEND:20240311T014100Z
+DTSTAMP:20240310T204500Z
 LOCATION:
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Available Appointments (Sam Butler)
+SUMMARY:Flight# DL0369 from DTW -> SAN\n	 (4 hours and 56 
+ mins.)
+DESCRIPTION:Trip Overview\n~~~~~~~~~~~~~\n\nTrip Name: Butler 
+ - CRC Real World Workshop - San Diego\, CA \nStart 
+ Date: March 10\, 2024 \nEnd Date: March 14\, 2024 \n
+ Created: January 23\, 2024\, KIMBERLY OSWALD (Modifi
+ ed: January 23\, 2024) \nDescription: Present and d
+ iscuss recent research that OTAQ has performed\, al
+ so learn about latest emissions research from othe
+ r attendees. \nTrip Purpose: P5 - Training \nAgenc
+ y Record Locator: YSNQXZ \nPassengers: Aron David 
+ Butler \nTotal Estimated Cost: $ 1\,390.20 USD \nIm
+ portant: Reservations must be approved and tickete
+ d no later than: 03/08/2024 1:45 PM Eastern \nThe 
+ trip will be automatically cancelled if it is not 
+ approved before the deadline. \nAgency Name: BCD -
+  EPA Sabre \n\nReservations\n~~~~~~~~~~~~\nSunday\,
+  March 10\, 2024\n----------------------\n\nFlight 
+ Detroit\, MI (DTW) to San Diego\, CA (SAN) \n```````
+ ````````````````````````````````````````\n\nDelta 
+ 0369 \nOperated by: Delta \n\nDeparture: 04:45 PM
+ \nSeat: 28D (Confirmed) \nDetroit Metropolitan Wayn
+ e County Airport (DTW)\nTerminal: E.H.MCNAMARA TER
+ MINAL\nDuration: 4 hours\, 56 minutes \nNonstop\nAr
+ rival: 06:41 PM\nSan Diego Intl Airport (SAN)\nTer
+ minal: 2\nConfirmation: H6JNSC\nStatus: Confirmed 
+ \nAir Frequent Flyer Number: DL-6915353319\nAircra
+ ft: Boeing 737-900\nDistance: 1951 miles\nE-Ticket
+     \nEmissions: 1062.7 lbs CO 2 e   \nCabin: Econ
+ omy (L)\nMeal: Food for purchase\n\nMC HYATT REGEN
+ CY MISSION BAY SPA\n``````````````````````````````
+ ``\n\n1441 QUIVIRA ROAD \nSAN DIEGO CA 92109 \n1 6
+ 19 224 1234\n\nChecking In: Sun Mar 10 \nRoom  1\, 
+ Days  3\, Guests  1 \nChecking Out: Wed Mar 13 \nCo
+ nfirmation: 15876514 \nStatus: Not purchased throu
+ gh the reservation system \nDaily Rate: $ 194.00 U
+ SD \nTotal Rate: $ 582.00 USD \nRoom Details    \n
+ Room Description: RUN OF HOUSE    \nSpecial Instru
+ ctions: Queen Confirmed   \nRemarks    \nRATE USD 
+ 194.00 \nUSER SUPPLIED HOTEL \n\nWednesday\, March 
+ 13\, 2024\n-------------------------\n\nFlight San 
+ Diego\, CA (SAN) to Detroit\, MI (DTW) \n```````````
+ ````````````````````````````````````\n\nDelta 0551
+  \nOperated by: Delta \n\nThis flight leaves on Ma
+ r 13 and arrives on Mar 14.    \n\nDeparture: 10:1
+ 0 PM\nSeat: 29D (Confirmed) \nSan Diego Intl Airpo
+ rt (SAN)\nTerminal: 2\nDuration: 4 hours\, 22 minut
+ es \nNonstop\nArrival: 05:32 AM\nDetroit Metropoli
+ tan Wayne County Airport (DTW)\nTerminal: E.H.MCNA
+ MARA TERMINAL\nConfirmation: H6JNSC\nStatus: Confi
+ rmed \nAir Frequent Flyer Number: DL-6915353319\nA
+ ircraft: Airbus A321\nDistance: 1951 miles\nE-Tick
+ et    \nEmissions: 1062.7 lbs CO 2 e   \nCabin: Ec
+ onomy (L)\nMeal: Refreshments for Purchase\n\nTota
+ l Estimated Cost\n~~~~~~~~~~~~~~~~~~~~\n\nAir   \n
+ Airfare quoted amount:   $ 723.72 USD \nTaxes and 
+ fees:   $ 84.48 USD \nAir Total Price:   $ 808.20 
+ USD \nHotel:   $ 582.00 USD \nTotal Estimated Cost
+ :   $ 1\,390.20 USD \n\nRestrictions \n\nQuote: REF
+ UNDABLE/CHNGS PERMITTED \n\nTICKET NOT YET ISSUED.
+  AIRFARE QUOTED IN ITINERARY IS NOT GUARANTEED UNT
+ IL TICKETS ARE ISSUED. \nRemarks\n~~~~~~~\nDUE TO 
+ RECENT CHANGES IN THE GOVERNMENT CITY PAIR \nPROGR
+ AM YOUR AIR RESERVATIONS ARE SUBJECT TO \nCANCELLA
+ TION BY THE AIRLINES IF NOT TICKETED ATLEAST \n48 
+ HOURS PRIOR TO SCHEDULED DEPARTURE \nPLEASE ENSURE
+  ALL NECESSARY APPROVALS ARE PROCESSED IN \nACCORD
+ ANCE WITH YOUR AGENCYS BUSINESS RULES BUT NO LESS 
+ \nTHAN 3 BUSINESS DAYS PRIOR TO DEPARTURE \nTHE 48
+  HOUR CANCELLATION RULE DOES NOT APPLY TO \nINTERN
+ ATIONAL RESERVATIONS UNLESS YOUR TRIP HAS DOMESTIC
+  \nCONNECTIONS ON MORE THAN ONE AIRLINE OR THE \nR
+ ESERVATION REQUIRES SEPARATE AIR TICKETS \nFOR 24/
+ 7 TRAVEL ASSISTANCE PLEASE CONTACT \nTHE BCD TRAVE
+ L TEAM AT 1-866-964-1346 \nFOR OUTSIDE THE US CALL
+  COLLECT 770-829-2609 \nFOR THE HEARING IMPAIRED- 
+ PLEASE DIAL 711 \nTO ACCESS RELAY SERVICE- PROVIDE
+  PHONE \nNUMBER OF 1-866-964-1346 TO ACCESS TRAVEL
+  \n\n
+UID:YSNQXZ-2024-03-10T20:45:00.000Z-2024-03-11T01:41:00.000Z@concursolutions.com
+PRIORITY:3
 TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT180M
+REPEAT:2
+DURATION:PT60M
+ACTION:DISPLAY
+DESCRIPTION: 3 Hours to your flight DTW -> SAN Created By SAP Concur Travel
+END:VALARM
 END:VEVENT
 END:VCALENDAR
