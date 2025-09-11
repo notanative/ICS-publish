@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2025-09-11 00:57:21
+X-TS-TIMESTAMP:2025-09-11 04:39:34
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -1013,21 +1013,21 @@ SEQUENCE:0
 SUMMARY:Huron Soccer - Training (Varsity)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250813T154240
+DTSTAMP:20250910T222505
 UID:10115426-350915089
 DTSTART;TZID=America/New_York:20250926T180000
 DTEND;TZID=America/New_York:20250926T191500
-DESCRIPTION:Location: TBD\n Players should wear their full Crush Uniform: O
- range Crush Umbro jersey\, Black Umbro shorts\, and Orange Umbro socks. Pl
- ease bring green practice jersey in soccer bags for back up in case there 
- are conflicting uniform colors. Players who are not in their full Umbro ki
- t will not be able to play.\n\nPlayers should arrive 30 minutes prior to t
- he start of the game for warm ups. -  \n Uniform: Orange Umbro jersey\, Bl
- ack Umbro shorts\, Orange Umbro socks (Arrival Time:  5:30 PM (Eastern Tim
- e (US & Canada)))
-LAST-MODIFIED:20250813T154240
-LOCATION:TBD
-SEQUENCE:0
+DESCRIPTION:Location: Schneider Park\n Players should wear their full Crush
+  Uniform: Orange Crush Umbro jersey\, Black Umbro shorts\, and Orange Umbr
+ o socks. Please bring green practice jersey in soccer bags for back up in 
+ case there are conflicting uniform colors. Players who are not in their fu
+ ll Umbro kit will not be able to play.\n\nPlayers should arrive 30 minutes
+  prior to the start of the game for warm ups. -  \n Uniform: Orange Umbro 
+ jersey\, Black Umbro shorts\, Orange Umbro socks (Arrival Time:  5:30 PM (
+ Eastern Time (US & Canada)))
+LAST-MODIFIED:20250910T222505
+LOCATION:1600 S Detroit Ave\nToledo OH 43614\nUnited States
+SEQUENCE:3
 SUMMARY:2012 MFG 25-26 at Toledo Celtics
 END:VEVENT
 BEGIN:VEVENT
