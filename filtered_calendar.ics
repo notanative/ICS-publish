@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2025-09-16 00:57:18
+X-TS-TIMESTAMP:2025-09-16 04:57:18
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -845,17 +845,17 @@ SEQUENCE:0
 SUMMARY:2012 MFG 25-26 - Crush 2012 MFG Team Training
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250814T143630
+DTSTAMP:20250915T215441
 UID:3022678-351015849
 DTSTART;TZID=America/New_York:20250916T190035
 DTEND;TZID=America/New_York:20250916T203035
 DESCRIPTION:Location: Huron Stadium\n   (Arrival Time:  6:00 PM (Eastern Ti
- me (US & Canada)))\nAssignments:\n\nBall Boy : 09 Isaac Habers\n\nBall Boy
-  : Unassigned\n\nBall Boy : Unassigned\n\nBall Boy : Unassigned\n\nAnnounc
- er : Unassigned
-LAST-MODIFIED:20250814T143630
+ me (US & Canada)))\nAssignments:\n\nBall Boy : 09 42 Lucas Wiljanen\n\nBal
+ l Boy : JVW Aiden Gowans\n\nBall Boy : 09 Caleb Nixon\n\nBall Boy : Unassi
+ gned\n\nAnnouncer : Unassigned
+LAST-MODIFIED:20250915T215441
 LOCATION:2727 Fuller Road
-SEQUENCE:0
+SEQUENCE:8
 SUMMARY:Huron Soccer - Varsity vs Pioneer
 END:VEVENT
 BEGIN:VEVENT
