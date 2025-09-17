@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2025-09-17 00:57:18
+X-TS-TIMESTAMP:2025-09-17 04:57:18
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -859,16 +859,16 @@ SEQUENCE:10
 SUMMARY:Huron Soccer - Varsity vs Pioneer
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250913T163523
+DTSTAMP:20250916T214922
 UID:3022678-353459048
 DTSTART;TZID=America/New_York:20250917T151500
 DTEND;TZID=America/New_York:20250917T170000
-DESCRIPTION:Location: Huron Front Turf\n   (Arrival Time:  3:05 PM (Eastern
-  Time (US & Canada)))
-LAST-MODIFIED:20250913T163523
+DESCRIPTION:[CANCELED] Location: Huron Front Turf\n Day off training tomorr
+ ow. Catch up on homework.\n\nIf you want to train\, contact Coach Dickie.
+LAST-MODIFIED:20250916T214922
 LOCATION:2727 Fuller Road\, Ann Arbor
 SEQUENCE:0
-SUMMARY:Huron Soccer - Training (Varsity)
+SUMMARY:[CANCELED] Huron Soccer - Training (Varsity)
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250916T162604
