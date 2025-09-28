@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2025-09-28 12:39:33
+X-TS-TIMESTAMP:2025-09-28 16:57:18
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -1099,15 +1099,17 @@ SEQUENCE:0
 SUMMARY:2012 MFG 25-26 - Crush 2012 MFG Team Training
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250814T144451
+DTSTAMP:20250928T111950
 UID:3022678-351016763
 DTSTART;TZID=America/New_York:20250930T190035
 DTEND;TZID=America/New_York:20250930T203035
 DESCRIPTION:Location: Huron Stadium\n   (Arrival Time:  6:00 PM (Eastern Ti
- me (US & Canada)))
-LAST-MODIFIED:20250814T144451
+ me (US & Canada)))\nAssignments:\n\nBall Boy : JVW Aiden Gowans\n\nBall Bo
+ y : Unassigned\n\nBall Boy : Unassigned\n\nBall Boy : Unassigned\n\nAnnoun
+ cer : Unassigned
+LAST-MODIFIED:20250928T111950
 LOCATION:2727 Fuller Road
-SEQUENCE:0
+SEQUENCE:2
 SUMMARY:Huron Soccer - Varsity vs Saline
 END:VEVENT
 BEGIN:VEVENT
@@ -1135,13 +1137,13 @@ SEQUENCE:0
 SUMMARY:2012 MFG 25-26 - Crush 2012 MFG Team Training
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250922T142603
+DTSTAMP:20250928T111756
 UID:3022678-354463678
-DTSTART;TZID=America/New_York:20251002T150000
+DTSTART;TZID=America/New_York:20251002T151500
 DTEND;TZID=America/New_York:20251002T170000
-DESCRIPTION:Location: Huron Front Turf\n   (Arrival Time:  2:50 PM (Eastern
+DESCRIPTION:Location: Huron Front Turf\n   (Arrival Time:  3:05 PM (Eastern
   Time (US & Canada)))
-LAST-MODIFIED:20250922T142603
+LAST-MODIFIED:20250928T111756
 LOCATION:2727 Fuller Road\, Ann Arbor
 SEQUENCE:0
 SUMMARY:Huron Soccer - Training (Varsity)
@@ -1164,7 +1166,8 @@ UID:3022678-354631458
 DTSTART;TZID=America/New_York:20251004T140000
 DTEND;TZID=America/New_York:20251004T152000
 DESCRIPTION:Location: U of D Jesuit\n   (Arrival Time:  1:30 PM (Eastern Ti
- me (US & Canada)))
+ me (US & Canada)))\nAssignments:\n\nSnacks : Unassigned\n\nDrinks : Unassi
+ gned\n\nPost-Game Food : Unassigned
 LAST-MODIFIED:20250924T174431
 LOCATION:8400 S Cambridge Ave\nDetroit MI 48221\nUnited States
 SEQUENCE:0
@@ -1218,7 +1221,9 @@ UID:3022678-351016868
 DTSTART;TZID=America/New_York:20251007T190035
 DTEND;TZID=America/New_York:20251007T203035
 DESCRIPTION:Location: Huron Stadium\n   (Arrival Time:  6:00 PM (Eastern Ti
- me (US & Canada)))
+ me (US & Canada)))\nAssignments:\n\nPhotographer : Unassigned\n\nAnnouncer
+  : Unassigned\n\nBall Boy : JVW Nicholas Schneider V\n\nBall Boy : Unassig
+ ned\n\nBall Boy : Unassigned\n\nBall Boy : Unassigned
 LAST-MODIFIED:20250814T144541
 LOCATION:2727 Fuller Road
 SEQUENCE:0
