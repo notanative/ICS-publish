@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2025-10-06 20:57:18
+X-TS-TIMESTAMP:2025-10-07 00:57:18
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -1216,17 +1216,17 @@ SEQUENCE:0
 SUMMARY:2012 MFG 25-26 - Crush 2012 MFG Team Training
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250814T144541
+DTSTAMP:20251006T181807
 UID:3022678-351016868
 DTSTART;TZID=America/New_York:20251007T190035
 DTEND;TZID=America/New_York:20251007T203035
 DESCRIPTION:Location: Huron Stadium\n   (Arrival Time:  6:00 PM (Eastern Ti
- me (US & Canada)))\nAssignments:\n\nPhotographer : Unassigned\n\nAnnouncer
-  : Unassigned\n\nBall Boy : JVW Nicholas Schneider V\n\nBall Boy : Unassig
- ned\n\nBall Boy : Unassigned\n\nBall Boy : Unassigned
-LAST-MODIFIED:20250814T144541
+ me (US & Canada)))\nAssignments:\n\nPhotographer : Unassigned\n\nBall Boy 
+ : JVW Nicholas Schneider V\n\nBall Boy : JVW Louis Siciliano\n\nBall Boy :
+  09 Miles Feng\n\nBall Boy : Unassigned
+LAST-MODIFIED:20251006T181807
 LOCATION:2727 Fuller Road
-SEQUENCE:0
+SEQUENCE:2
 SUMMARY:Huron Soccer - Varsity vs Skyline (Senior Night)
 END:VEVENT
 BEGIN:VEVENT
