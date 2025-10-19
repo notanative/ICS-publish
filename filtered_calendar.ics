@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2025-10-19 12:39:34
+X-TS-TIMESTAMP:2025-10-19 16:57:18
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -1351,7 +1351,7 @@ SEQUENCE:0
 SUMMARY:Huron Soccer - Training (Varsity)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250813T154834
+DTSTAMP:20251019T124305
 UID:10115426-350916024
 DTSTART;TZID=America/New_York:20251019T160000
 DTEND;TZID=America/New_York:20251019T171500
@@ -1363,9 +1363,9 @@ DESCRIPTION:Location: Crestwood High School (Crestwood HS Turf Field)\n Pla
  nPlayers should arrive 30 minutes prior to the start of the game for warm 
  ups. -  \n Uniform: Orange Crush Jersey\, Black Umbro shorts\, Orange Umbr
  o socks (Arrival Time:  3:30 PM (Eastern Time (US & Canada)))
-LAST-MODIFIED:20250813T154834
+LAST-MODIFIED:20251019T124305
 LOCATION:1501 N Beech Daly Rd Dearborn Heights\, MI\, United States
-SEQUENCE:0
+SEQUENCE:2
 SUMMARY:2012 MFG 25-26 at Michigan Jaguars Dearborn 2012 Girls Green
 END:VEVENT
 BEGIN:VEVENT
