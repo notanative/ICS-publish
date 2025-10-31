@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2025-10-31 00:57:18
+X-TS-TIMESTAMP:2025-10-31 04:39:35
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -1521,6 +1521,18 @@ DTEND;TZID=America/New_York:20251031T170000
 DESCRIPTION:Location: Huron Front Turf\n   (Arrival Time:  3:05 PM (Eastern
   Time (US & Canada)))
 LAST-MODIFIED:20250923T102930
+LOCATION:2727 Fuller Road\, Ann Arbor
+SEQUENCE:0
+SUMMARY:Huron Soccer - Training (Varsity)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251030T235721
+UID:3022678-357063144
+DTSTART;TZID=America/New_York:20251101T100000
+DTEND;TZID=America/New_York:20251101T110000
+DESCRIPTION:Location: Huron Front Turf\n   (Arrival Time:  9:50 AM (Eastern
+  Time (US & Canada)))
+LAST-MODIFIED:20251030T235721
 LOCATION:2727 Fuller Road\, Ann Arbor
 SEQUENCE:0
 SUMMARY:Huron Soccer - Training (Varsity)
