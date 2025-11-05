@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2025-11-05 09:57:21
+X-TS-TIMESTAMP:2025-11-05 13:57:19
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -1578,6 +1578,20 @@ LAST-MODIFIED:20251027T194949
 LOCATION:150 Westview St\nYpsilanti MI 48197\nUnited States
 SEQUENCE:0
 SUMMARY:2012 MFG 25-26 - 2012 Crush MFG Team Practice
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251105T082953
+UID:3022678-357418956
+DTSTART;TZID=America/New_York:20251107T151513
+DTEND;TZID=America/New_York:20251107T154013
+DESCRIPTION:Location: Huron Front Turf\n All jerseys/shorts must be washed 
+ and placed inside the Nike bag. \n\nVarsity players must also turn in the 
+ black sideline coat.  (Arrival Time:  3:15 PM (Eastern Time (US & Canada))
+ )
+LAST-MODIFIED:20251105T082953
+LOCATION:2727 Fuller Road\, Ann Arbor
+SEQUENCE:0
+SUMMARY:Huron Soccer - Varsity and Freshman Uniform/Bag Return
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20251027T195017
