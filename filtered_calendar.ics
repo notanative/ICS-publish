@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2025-12-10 21:57:20
+X-TS-TIMESTAMP:2025-12-11 01:57:33
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -850,9 +850,8 @@ UID:3022678-351015849
 DTSTART;TZID=America/New_York:20250916T190035
 DTEND;TZID=America/New_York:20250916T203035
 DESCRIPTION:Location: Huron Stadium\n   (Arrival Time:  6:00 PM (Eastern Ti
- me (US & Canada)))\nAssignments:\n\nBall Boy : 09 42 Lucas Wiljanen\n\nBal
- l Boy : JVW Aiden Gowans\n\nBall Boy : 09 Caleb Nixon\n\nBall Boy : 09 Kar
- im Mizyed\n\nAnnouncer : Unassigned
+ me (US & Canada)))\nAssignments:\n\nBall Boy : JVW Aiden Gowans\n\nBall Bo
+ y : 09 Caleb Nixon\n\nBall Boy : 09 Karim Mizyed\n\nAnnouncer : Unassigned
 LAST-MODIFIED:20250916T145621
 LOCATION:2727 Fuller Road
 SEQUENCE:10
