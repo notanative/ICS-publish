@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2026-02-15 21:39:33
+X-TS-TIMESTAMP:2026-02-16 01:57:17
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -25,21 +25,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 TZNAME:EST
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-DTSTAMP:20250603T121419
-UID:3022678-346955683
-DTSTART;TZID=America/New_York:20250815T190035
-DTEND;TZID=America/New_York:20250815T203035
-DESCRIPTION:Location: Huron Stadium\n   (Arrival Time:  6:00 PM (Eastern Ti
- me (US & Canada)))\nAssignments:\n\nPhotographer : Unassigned\n\nAnnouncer
-  : Unassigned\n\nVeo (Game Film) : Unassigned\n\nBall Boy : 09 Troy Maniga
- n\n\nBall Boy : Unassigned\n\nBall Boy : Unassigned\n\nBall Boy : Unassign
- ed
-LAST-MODIFIED:20250603T121419
-LOCATION:2727 Fuller Road
-SEQUENCE:0
-SUMMARY:Huron Soccer - Varsity vs Dearborn Edsel Ford
-END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250813T202427
 UID:3022678-350944381
