@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2026-02-18 21:57:17
+X-TS-TIMESTAMP:2026-02-19 01:57:20
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -25,18 +25,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 TZNAME:EST
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-DTSTAMP:20250729T142518
-UID:10115426-349583955
-DTSTART;TZID=America/New_York:20250818T190030
-DTEND;TZID=America/New_York:20250818T201530
-DESCRIPTION:Location: ST. Paul Lutheran School\n   (Arrival Time:  7:00 PM 
- (Eastern Time (US & Canada)))
-LAST-MODIFIED:20250729T142518
-LOCATION:495 Earhart Rd\nAnn Arbor MI 48105\nUnited States
-SEQUENCE:0
-SUMMARY:2012 MFG 25-26 - Crush 2012 MFG Team Training
-END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250814T114140
 UID:3022678-350993825
@@ -1539,5 +1527,263 @@ LAST-MODIFIED:20260111T001801
 LOCATION:150 Westview St\nYpsilanti MI 48197\nUnited States
 SEQUENCE:0
 SUMMARY:2012 MFG 25-26 - Crush 2012 MFG Team Practice
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T203600
+UID:10115426-363005520
+DTSTART;TZID=America/New_York:20260302T193057
+DTEND;TZID=America/New_York:20260302T203057
+DESCRIPTION:Location: EMU Dome\n   (Arrival Time:  7:30 PM (Eastern Time (U
+ S & Canada)))
+LAST-MODIFIED:20260218T203600
+LOCATION:150 Westview St\nYpsilanti MI 48197\nUnited States
+SEQUENCE:0
+SUMMARY:2012 MFG 25-26 - Crush 2012 MFG Team Practice
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T203709
+UID:10115426-363005581
+DTSTART;TZID=America/New_York:20260304T193031
+DTEND;TZID=America/New_York:20260304T203031
+DESCRIPTION:Location: EMU Dome\n   (Arrival Time:  7:30 PM (Eastern Time (U
+ S & Canada)))
+LAST-MODIFIED:20260218T203709
+LOCATION:150 Westview St\nYpsilanti MI 48197\nUnited States
+SEQUENCE:0
+SUMMARY:2012 MFG 25-26 - Crush 2012 MFG Team Practice
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T203600
+UID:10115426-363005521
+DTSTART;TZID=America/New_York:20260309T193057
+DTEND;TZID=America/New_York:20260309T203057
+DESCRIPTION:Location: EMU Dome\n   (Arrival Time:  7:30 PM (Eastern Time (U
+ S & Canada)))
+LAST-MODIFIED:20260218T203600
+LOCATION:150 Westview St\nYpsilanti MI 48197\nUnited States
+SEQUENCE:0
+SUMMARY:2012 MFG 25-26 - Crush 2012 MFG Team Practice
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T203709
+UID:10115426-363005582
+DTSTART;TZID=America/New_York:20260311T193031
+DTEND;TZID=America/New_York:20260311T203031
+DESCRIPTION:Location: EMU Dome\n   (Arrival Time:  7:30 PM (Eastern Time (U
+ S & Canada)))
+LAST-MODIFIED:20260218T203709
+LOCATION:150 Westview St\nYpsilanti MI 48197\nUnited States
+SEQUENCE:0
+SUMMARY:2012 MFG 25-26 - Crush 2012 MFG Team Practice
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T203600
+UID:10115426-363005522
+DTSTART;TZID=America/New_York:20260316T193057
+DTEND;TZID=America/New_York:20260316T203057
+DESCRIPTION:Location: EMU Dome\n   (Arrival Time:  7:30 PM (Eastern Time (U
+ S & Canada)))
+LAST-MODIFIED:20260218T203600
+LOCATION:150 Westview St\nYpsilanti MI 48197\nUnited States
+SEQUENCE:0
+SUMMARY:2012 MFG 25-26 - Crush 2012 MFG Team Practice
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T203709
+UID:10115426-363005583
+DTSTART;TZID=America/New_York:20260318T193031
+DTEND;TZID=America/New_York:20260318T203031
+DESCRIPTION:Location: EMU Dome\n   (Arrival Time:  7:30 PM (Eastern Time (U
+ S & Canada)))
+LAST-MODIFIED:20260218T203709
+LOCATION:150 Westview St\nYpsilanti MI 48197\nUnited States
+SEQUENCE:0
+SUMMARY:2012 MFG 25-26 - Crush 2012 MFG Team Practice
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T203600
+UID:10115426-363005523
+DTSTART;TZID=America/New_York:20260323T193057
+DTEND;TZID=America/New_York:20260323T203057
+DESCRIPTION:Location: EMU Dome\n   (Arrival Time:  7:30 PM (Eastern Time (U
+ S & Canada)))
+LAST-MODIFIED:20260218T203600
+LOCATION:150 Westview St\nYpsilanti MI 48197\nUnited States
+SEQUENCE:0
+SUMMARY:2012 MFG 25-26 - Crush 2012 MFG Team Practice
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T203709
+UID:10115426-363005584
+DTSTART;TZID=America/New_York:20260325T193031
+DTEND;TZID=America/New_York:20260325T203031
+DESCRIPTION:Location: EMU Dome\n   (Arrival Time:  7:30 PM (Eastern Time (U
+ S & Canada)))
+LAST-MODIFIED:20260218T203709
+LOCATION:150 Westview St\nYpsilanti MI 48197\nUnited States
+SEQUENCE:0
+SUMMARY:2012 MFG 25-26 - Crush 2012 MFG Team Practice
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T203600
+UID:10115426-363005524
+DTSTART;TZID=America/New_York:20260330T193057
+DTEND;TZID=America/New_York:20260330T203057
+DESCRIPTION:Location: EMU Dome\n   (Arrival Time:  7:30 PM (Eastern Time (U
+ S & Canada)))
+LAST-MODIFIED:20260218T203600
+LOCATION:150 Westview St\nYpsilanti MI 48197\nUnited States
+SEQUENCE:0
+SUMMARY:2012 MFG 25-26 - Crush 2012 MFG Team Practice
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T200914
+UID:10115426-363003809
+DTSTART;TZID=America/New_York:20260412T143022
+DTEND;TZID=America/New_York:20260412T155022
+DESCRIPTION:Location: Royal Oak High School - Turf field\n Players are requ
+ ired to wear full crush kit with orange umbro jersey\, black umbro shorts 
+ and orange umbro socks. Please bring green practice jersey in the event th
+ at there are conflicting uniform colors. \n\nPlayers should arrive 30 minu
+ tes prior to the start of the game for warm ups. Please list your players 
+ availability so that we can arrange for subs if needed. -  \n Uniform: Ora
+ nge umbro jersey\, black umbro short\, orange umbro socks (Arrival Time:  
+ 2:00 PM (Eastern Time (US & Canada)))
+LAST-MODIFIED:20260218T200914
+LOCATION:1500 Lexington Blvd\nRoyal Oak MI 48073\nUnited States
+SEQUENCE:0
+SUMMARY:2012 MFG 25-26 at Royal Oak FC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T201122
+UID:10115426-363003935
+DTSTART;TZID=America/New_York:20260419T140025
+DTEND;TZID=America/New_York:20260419T152025
+DESCRIPTION:Location: Lapeer High School\n Players are required to wear ful
+ l crush kit with orange umbro jersey\, black umbro shorts and orange umbro
+  socks. Please bring green practice jersey in the event that there are con
+ flicting uniform colors. \n\nPlayers should arrive 30 minutes prior to the
+  start of the game for warm ups. Please list your players availability so 
+ that we can arrange for subs if needed. -  \n Uniform: Orange umbro jersey
+ \, black umbro shorts\, orange umbro socks (Arrival Time:  1:30 PM (Easter
+ n Time (US & Canada)))
+LAST-MODIFIED:20260218T201122
+LOCATION:933 S Saginaw St\nLapeer MI 48446\nUnited States
+SEQUENCE:0
+SUMMARY:2012 MFG 25-26 at Nationals Lapeer (Black)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T203939
+UID:10115426-363005762
+DTSTART:20260425T000000
+DTEND:20260426T000000
+DESCRIPTION:Location: Bowling Green State University\n   (Arrival Time:  8:
+ 35 PM (Eastern Time (US & Canada)))
+LAST-MODIFIED:20260218T203939
+LOCATION:1001 E Wooster St\nBowling Green OH 43403\nUnited States
+SEQUENCE:0
+SUMMARY:2012 MFG 25-26 - Bowling Green Spring Soccer Challenge
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T203939
+UID:10115426-363005763
+DTSTART:20260426T000000
+DTEND:20260427T000000
+DESCRIPTION:Location: Bowling Green State University\n   (Arrival Time:  8:
+ 35 PM (Eastern Time (US & Canada)))
+LAST-MODIFIED:20260218T203939
+LOCATION:1001 E Wooster St\nBowling Green OH 43403\nUnited States
+SEQUENCE:0
+SUMMARY:2012 MFG 25-26 - Bowling Green Spring Soccer Challenge
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T201517
+UID:10115426-363004151
+DTSTART;TZID=America/New_York:20260517T110044
+DTEND;TZID=America/New_York:20260517T122044
+DESCRIPTION:Location: Olson Park\n Players are required to wear full crush 
+ kit with orange umbro jersey\, black umbro shorts and orange umbro socks. 
+ Please bring green practice jersey in the event that there are conflicting
+  uniform colors. \n\nPlayers should arrive 30 minutes prior to the start o
+ f the game for warm ups. Please list your players availability so that we 
+ can arrange for subs if needed. -  \n Uniform: Orange umbro jersey\, black
+  umbro short\, orsnge umbro socks (Arrival Time: 10:30 AM (Eastern Time (U
+ S & Canada)))
+LAST-MODIFIED:20260218T201517
+LOCATION:1515 Dhu Varren Rd Ann Arbor\, MI\, United States
+SEQUENCE:0
+SUMMARY:2012 MFG 25-26 vs Oxford FC Oxford wildcats (gold)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T201810
+UID:10115426-363004389
+DTSTART;TZID=America/New_York:20260523T110029
+DTEND;TZID=America/New_York:20260523T122029
+DESCRIPTION:Location: Fuller Park\n Players are required to wear full crush
+  kit with orange umbro jersey\, black umbro shorts and orange umbro socks.
+  Please bring green practice jersey in the event that there are conflictin
+ g uniform colors. \n\nPlayers should arrive 30 minutes prior to the start 
+ of the game for warm ups. Please list your players availability so that we
+  can arrange for subs if needed. -  \n Uniform: Orange Umbro Jersey\, Blac
+ k Umbro shorts\, Orange Umbro socks (Arrival Time: 10:30 AM (Eastern Time 
+ (US & Canada)))
+LAST-MODIFIED:20260218T201810
+LOCATION:1519 Fuller Rd\nAnn Arbor MI 48105\nUnited States
+SEQUENCE:0
+SUMMARY:2012 MFG 25-26 vs Michigan Stars: Elite SC MI Stars Macomb 12G
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T202528
+UID:10115426-363004505
+DTSTART;TZID=America/New_York:20260530T150028
+DTEND;TZID=America/New_York:20260530T162028
+DESCRIPTION:Location: Fuller Park\n Players are required to wear full crush
+  kit with orange umbro jersey\, black umbro shorts and orange umbro socks.
+  Please bring green practice jersey in the event that there are conflictin
+ g uniform colors. \n\nPlayers should arrive 30 minutes prior to the start 
+ of the game for warm ups. Please list your players availability so that we
+  can arrange for subs if needed. -  \n Uniform: Orange Umbro jersey\, Blac
+ k Umbro shorts\, Orange Umbro socks (Arrival Time:  2:30 PM (Eastern Time 
+ (US & Canada)))
+LAST-MODIFIED:20260218T202528
+LOCATION:1519 Fuller Rd\nAnn Arbor MI 48105\nUnited States
+SEQUENCE:0
+SUMMARY:2012 MFG 25-26 vs Legends FC Girls Blue
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T202458
+UID:10115426-363004813
+DTSTART;TZID=America/New_York:20260605T190022
+DTEND;TZID=America/New_York:20260605T202022
+DESCRIPTION:Location: Boulan Park - Field #4\n Players are required to wear
+  full crush kit with orange umbro jersey\, black umbro shorts and orange u
+ mbro socks. Please bring green practice jersey in the event that there are
+  conflicting uniform colors. \n\nPlayers should arrive 30 minutes prior to
+  the start of the game for warm ups. Please list your players availability
+  so that we can arrange for subs if needed. -  \n Uniform: Orange Umbro je
+ rsey\, Black Umbro shorts\, orange umbro socks (Arrival Time:  6:30 PM (Ea
+ stern Time (US & Canada)))
+LAST-MODIFIED:20260218T202458
+LOCATION:3671 Crooks Rd\nTroy MI 48084\nUnited States
+SEQUENCE:0
+SUMMARY:2012 MFG 25-26 at Blackhawks Sports Club 2012/2013G
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T202717
+UID:10115426-363004987
+DTSTART;TZID=America/New_York:20260607T130044
+DTEND;TZID=America/New_York:20260607T142044
+DESCRIPTION:Location: Olson Park\n Players are required to wear full crush 
+ kit with orange umbro jersey\, black umbro shorts and orange umbro socks. 
+ Please bring green practice jersey in the event that there are conflicting
+  uniform colors. \n\nPlayers should arrive 30 minutes prior to the start o
+ f the game for warm ups. Please list your players availability so that we 
+ can arrange for subs if needed. -  \n Uniform: Orange Umbro jersey\, Black
+  Umbro shorts\, Orange Umbro socks (Arrival Time: 12:30 PM (Eastern Time (
+ US & Canada)))
+LAST-MODIFIED:20260218T202717
+LOCATION:1515 Dhu Varren Rd Ann Arbor\, MI\, United States
+SEQUENCE:0
+SUMMARY:2012 MFG 25-26 vs Bay Area SA: BASA 12G
 END:VEVENT
 END:VCALENDAR
