@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2026-02-19 21:57:18
+X-TS-TIMESTAMP:2026-02-20 00:39:33
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -25,21 +25,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 TZNAME:EST
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-DTSTAMP:20250814T114140
-UID:3022678-350993825
-DTSTART;TZID=America/New_York:20250819T190035
-DTEND;TZID=America/New_York:20250819T203035
-DESCRIPTION:Location: Huron Stadium\n   (Arrival Time:  6:00 PM (Eastern Ti
- me (US & Canada)))\nAssignments:\n\nAnnouncer : V Max Pinsky\n\nVeo (Game 
- Film) : Unassigned\n\nPhotographer : V Noah Zahuranec\n\nBall Boy : JVW Ol
- iver Hammond\n\nBall Boy : JVW Nicholas Schneider V\n\nBall Boy : JVW Jozi
- ah Jason\n\nBall Boy : 09 Caleb Nixon
-LAST-MODIFIED:20250814T114140
-LOCATION:2727 Fuller Road
-SEQUENCE:0
-SUMMARY:Huron Soccer - Varsity vs Dexter
-END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250816T102108
 UID:3022678-351184286
