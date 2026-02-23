@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2026-02-23 13:57:19
+X-TS-TIMESTAMP:2026-02-23 17:57:18
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -25,25 +25,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 TZNAME:EST
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-DTSTAMP:20250821T132312
-UID:10115426-351113214
-DTSTART;TZID=America/New_York:20250823T090000
-DTEND;TZID=America/New_York:20250823T101000
-DESCRIPTION:Location: Saginaw Soccer Complex - Field 6\n Players should wea
- r full Crush soccer kit with Orange Umbro jersey\, Black Umbro shorts\, an
- d orange Umbro socks.  Players who are not in the correct uniform will be 
- unable to play. Please bring green practice jerseys in soccer bags in the 
- event that there are conflicting jersey colors.\n\nPlayers should arrive t
- o the field 30 minutes early for warm ups.\n\nPlease mark availability in 
- the app. Additionally\, please notify me if your player is unable to play.
-  -  \n Uniform: Orange Umbro jersey\, Black Umbro shorts\, Orange Umbro So
- ck (Arrival Time:  8:30 AM (Eastern Time (US & Canada)))
-LAST-MODIFIED:20250821T132312
-LOCATION:3575 McCarty Rd\nSaginaw MI 48603\nUnited States
-SEQUENCE:3
-SUMMARY:2012 MFG 25-26 vs Nationals Genessee 12 Girls Red
-END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250729T143918
 UID:10115426-349585152
