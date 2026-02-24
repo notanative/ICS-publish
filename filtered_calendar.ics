@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2026-02-24 16:39:34
+X-TS-TIMESTAMP:2026-02-24 21:57:21
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -25,37 +25,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 TZNAME:EST
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-DTSTAMP:20250729T143918
-UID:10115426-349585153
-DTSTART:20250824T000000
-DTEND:20250825T000000
-DESCRIPTION:Location: Saginaw Soccer Complex\n   (Arrival Time:  2:35 PM (E
- astern Time (US & Canada)))
-LAST-MODIFIED:20250729T143918
-LOCATION:3575 McCarty Rd\nSaginaw MI 48603\nUnited States
-SEQUENCE:0
-SUMMARY:2012 MFG 25-26 - Saginaw Tournament
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250815T133508
-UID:10115426-351113880
-DTSTART;TZID=America/New_York:20250824T151500
-DTEND;TZID=America/New_York:20250824T162500
-DESCRIPTION:Location: Saginaw Soccer Complex - Field 6\n Players should wea
- r full Crush soccer kit with Orange Umbro jersey\, Black Umbro shorts\, an
- d orange Umbro socks.  Players who are not in the correct uniform will be 
- unable to play. Please bring green practice jerseys in soccer bags in the 
- event that there are conflicting jersey colors.\n\nPlayers should arrive t
- o the field 30 minutes early for warm ups.\n\nPlease mark availability in 
- the app. Additionally\, please notify me if your player is unable to play.
-  -  \n Uniform: Orange Umbro jersey\, Black Umbro shorts\, Orange Umbro so
- cks (Arrival Time:  3:15 PM (Eastern Time (US & Canada)))
-LAST-MODIFIED:20250815T133508
-LOCATION:3575 McCarty Rd\nSaginaw MI 48603\nUnited States
-SEQUENCE:0
-SUMMARY:2012 MFG 25-26 at DCFC North 2012 Girls Rouge
-END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250816T120749
 UID:3022678-351184780
