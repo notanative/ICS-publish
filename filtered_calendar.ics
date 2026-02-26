@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2026-02-26 13:57:21
+X-TS-TIMESTAMP:2026-02-26 17:57:18
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -1450,6 +1450,42 @@ SEQUENCE:0
 SUMMARY:2012 MFG 25-26 - Crush 2012 MFG Team Practice
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260226T100834
+UID:10115426-363496600
+DTSTART;TZID=America/New_York:20260401T193057
+DTEND;TZID=America/New_York:20260401T203057
+DESCRIPTION:Location: EMU Dome\n   (Arrival Time:  7:30 PM (Eastern Time (U
+ S & Canada)))
+LAST-MODIFIED:20260226T100834
+LOCATION:150 Westview St\nYpsilanti MI 48197\nUnited States
+SEQUENCE:0
+SUMMARY:2012 MFG 25-26 - Crush 2012 MFG Team Practice
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260226T100931
+UID:10115426-363496658
+DTSTART;TZID=America/New_York:20260406T193056
+DTEND;TZID=America/New_York:20260406T203056
+DESCRIPTION:Location: EMU Dome\n   (Arrival Time:  7:30 PM (Eastern Time (U
+ S & Canada)))
+LAST-MODIFIED:20260226T100931
+LOCATION:150 Westview St\nYpsilanti MI 48197\nUnited States
+SEQUENCE:0
+SUMMARY:2012 MFG 25-26 - Crush 2012 MFG Team Practice
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260226T100834
+UID:10115426-363496601
+DTSTART;TZID=America/New_York:20260408T193057
+DTEND;TZID=America/New_York:20260408T203057
+DESCRIPTION:Location: EMU Dome\n   (Arrival Time:  7:30 PM (Eastern Time (U
+ S & Canada)))
+LAST-MODIFIED:20260226T100834
+LOCATION:150 Westview St\nYpsilanti MI 48197\nUnited States
+SEQUENCE:0
+SUMMARY:2012 MFG 25-26 - Crush 2012 MFG Team Practice
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260218T200914
 UID:10115426-363003809
 DTSTART;TZID=America/New_York:20260412T143022
@@ -1466,6 +1502,30 @@ LAST-MODIFIED:20260218T200914
 LOCATION:1500 Lexington Blvd\nRoyal Oak MI 48073\nUnited States
 SEQUENCE:0
 SUMMARY:2012 MFG 25-26 at Royal Oak FC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260226T100931
+UID:10115426-363496659
+DTSTART;TZID=America/New_York:20260413T193056
+DTEND;TZID=America/New_York:20260413T203056
+DESCRIPTION:Location: EMU Dome\n   (Arrival Time:  7:30 PM (Eastern Time (U
+ S & Canada)))
+LAST-MODIFIED:20260226T100931
+LOCATION:150 Westview St\nYpsilanti MI 48197\nUnited States
+SEQUENCE:0
+SUMMARY:2012 MFG 25-26 - Crush 2012 MFG Team Practice
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260226T100834
+UID:10115426-363496602
+DTSTART;TZID=America/New_York:20260415T193057
+DTEND;TZID=America/New_York:20260415T203057
+DESCRIPTION:Location: EMU Dome\n   (Arrival Time:  7:30 PM (Eastern Time (U
+ S & Canada)))
+LAST-MODIFIED:20260226T100834
+LOCATION:150 Westview St\nYpsilanti MI 48197\nUnited States
+SEQUENCE:0
+SUMMARY:2012 MFG 25-26 - Crush 2012 MFG Team Practice
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260218T201122
@@ -1508,6 +1568,24 @@ LAST-MODIFIED:20260218T203939
 LOCATION:1001 E Wooster St\nBowling Green OH 43403\nUnited States
 SEQUENCE:0
 SUMMARY:2012 MFG 25-26 - Bowling Green Spring Soccer Challenge
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260226T101708
+UID:10115426-363497246
+DTSTART;TZID=America/New_York:20260503T093018
+DTEND;TZID=America/New_York:20260503T105018
+DESCRIPTION:Location: Keith Sports Park\n Players are required to wear full
+  crush kit with orange umbro jersey\, black umbro shorts and orange umbro 
+ socks. Please bring green practice jersey in the event that there are conf
+ licting uniform colors. \n\nPlayers should arrive 30 minutes prior to the 
+ start of the game for warm ups. Please list your players availability so t
+ hat we can arrange for subs if needed. -  \n Uniform: Orange Crush Jersey\
+ , Black Crush shorts\, Orange Umbro socks (Arrival Time:  9:00 AM (Eastern
+  Time (US & Canada)))
+LAST-MODIFIED:20260226T101708
+LOCATION:2750 Keith Rd\nWest Bloomfield MI 48324\nUnited States
+SEQUENCE:0
+SUMMARY:2012 MFG 25-26 at MI Jaguars WB 2012 Girls Green
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260218T213556
