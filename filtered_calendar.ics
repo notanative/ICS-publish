@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2026-02-27 21:57:18
+X-TS-TIMESTAMP:2026-02-28 00:39:34
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -25,33 +25,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 TZNAME:EST
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-DTSTAMP:20250814T121828
-UID:3022678-350998283
-DTSTART;TZID=America/New_York:20250827T190035
-DTEND;TZID=America/New_York:20250827T203035
-DESCRIPTION:Location: Huron Stadium\n   (Arrival Time:  6:00 PM (Eastern Ti
- me (US & Canada)))\nAssignments:\n\nPhotographer : V Noah Zahuranec\n\nAnn
- ouncer : Unassigned\n\nBall Boy : Unassigned\n\nBall Boy : Unassigned\n\nB
- all Boy : Unassigned\n\nBall Boy : Unassigned\n\nGame Film (Veo) : V Nolan
-  Prevost
-LAST-MODIFIED:20250814T121828
-LOCATION:2727 Fuller Road
-SEQUENCE:0
-SUMMARY:Huron Soccer - Varsity vs Bedford
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250825T215359
-UID:10115426-349584092
-DTSTART;TZID=America/New_York:20250827T190048
-DTEND;TZID=America/New_York:20250827T201548
-DESCRIPTION:Location: ST. Paul Lutheran School\n   (Arrival Time:  7:00 PM 
- (Eastern Time (US & Canada)))
-LAST-MODIFIED:20250825T215359
-LOCATION:495 Earhart Rd\nAnn Arbor MI 48105\nUnited States
-SEQUENCE:3
-SUMMARY:2012 MFG 25-26 - Crush 2012 MFG Team Training
-END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250824T122419
 UID:3022678-352001726
