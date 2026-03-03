@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2026-03-02 21:57:21
+X-TS-TIMESTAMP:2026-03-03 01:39:33
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -25,22 +25,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 TZNAME:EST
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-DTSTAMP:20250814T121851
-UID:3022678-350998347
-DTSTART;TZID=America/New_York:20250902T190035
-DTEND;TZID=America/New_York:20250902T203035
-DESCRIPTION:Location: Huron Stadium\n   (Arrival Time:  6:00 PM (Eastern Ti
- me (US & Canada)))\nAssignments:\n\nAnnouncer : V Max Pinsky\n\nBall Boy :
-  JVW Harrison Ewy\n\nBall Boy : JVW Joziah Jason\n\nBall Boy : Unassigned\
- n\nBall Boy : Unassigned\n\nPhotographer : V Noah Zahuranec\n\nGame Film (
- Veo) : V Nolan Prevost\n\nConcession Stand : V Nolan Prevost\n\nConcession
-  Stand : Unassigned
-LAST-MODIFIED:20250814T121851
-LOCATION:2727 Fuller Road
-SEQUENCE:0
-SUMMARY:Huron Soccer - Varsity vs Monroe
-END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250816T132142
 UID:3022678-351199758
