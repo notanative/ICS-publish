@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2026-03-13 12:57:20
+X-TS-TIMESTAMP:2026-03-13 16:57:20
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -25,36 +25,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 TZNAME:EST
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-DTSTAMP:20250813T154038
-UID:10115426-350914897
-DTSTART;TZID=America/New_York:20250913T100000
-DTEND;TZID=America/New_York:20250913T111500
-DESCRIPTION:Location: Wide World Sport Complex 11 V 11 East\n Players shoul
- d wear their full Crush Uniform: Orange Crush Umbro jersey\, Black Umbro s
- horts\, and Orange Umbro socks. Please bring green practice jersey in socc
- er bags for back up in case there are conflicting uniform colors. Players 
- who are not in their full Umbro kit will not be able to play.\n\nPlayers s
- hould arrive 30 minutes prior to the start of the game for warm ups. -  \n
-  Uniform: Orange Crush Jersey\, Orange Crush shorts\, Orange Umbro socks (
- Arrival Time:  9:30 AM (Eastern Time (US & Canada)))
-LAST-MODIFIED:20250813T154038
-LOCATION:2140 Oak Valley Dr Ann Arbor\, MI\, United States
-SEQUENCE:0
-SUMMARY:2012 MFG 25-26 at Michigan Tigers FC 2012 Girls Bule (H)
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250814T143419
-UID:3022678-351015493
-DTSTART;TZID=America/New_York:20250913T120035
-DTEND;TZID=America/New_York:20250913T133035
-DESCRIPTION:Location: Bedford High School\n   (Arrival Time: 11:00 AM (East
- ern Time (US & Canada)))
-LAST-MODIFIED:20250814T143419
-LOCATION:8285 Jackman Rd\nTemperance MI 48182\nUnited States
-SEQUENCE:0
-SUMMARY:Huron Soccer - Varsity vs Bedford
-END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250905T144906
 UID:3022678-353338167
