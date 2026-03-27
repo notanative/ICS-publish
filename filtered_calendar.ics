@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2026-03-26 20:57:18
+X-TS-TIMESTAMP:2026-03-27 00:57:18
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -25,24 +25,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 TZNAME:EST
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-DTSTAMP:20250910T222505
-UID:10115426-350915089
-DTSTART;TZID=America/New_York:20250926T180000
-DTEND;TZID=America/New_York:20250926T191500
-DESCRIPTION:Location: Schneider Park\n Players should wear their full Crush
-  Uniform: Orange Crush Umbro jersey\, Black Umbro shorts\, and Orange Umbr
- o socks. Please bring green practice jersey in soccer bags for back up in 
- case there are conflicting uniform colors. Players who are not in their fu
- ll Umbro kit will not be able to play.\n\nPlayers should arrive 30 minutes
-  prior to the start of the game for warm ups. -  \n Uniform: Orange Umbro 
- jersey\, Black Umbro shorts\, Orange Umbro socks (Arrival Time:  5:30 PM (
- Eastern Time (US & Canada)))
-LAST-MODIFIED:20250910T222505
-LOCATION:1600 S Detroit Ave\nToledo OH 43614\nUnited States
-SEQUENCE:3
-SUMMARY:2012 MFG 25-26 at Toledo Celtics
-END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250813T154505
 UID:10115426-350915440
