@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2026-04-12 20:39:35
+X-TS-TIMESTAMP:2026-04-13 00:57:21
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -25,18 +25,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 TZNAME:EST
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-DTSTAMP:20251011T183443
-UID:3022678-354517788
-DTSTART;TZID=America/New_York:20251012T170000
-DTEND;TZID=America/New_York:20251012T193000
-DESCRIPTION:Location: Huron Stadium\n Game film at 5:00pm. Room 4210  (Arri
- val Time:  4:50 PM (Eastern Time (US & Canada)))
-LAST-MODIFIED:20251011T183443
-LOCATION:2727 Fuller Road
-SEQUENCE:0
-SUMMARY:Huron Soccer - Training (Varsity)
-END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20251013T103926
 UID:3022678-354517791
@@ -786,6 +774,24 @@ LAST-MODIFIED:20260226T100834
 LOCATION:150 Westview St\nYpsilanti MI 48197\nUnited States
 SEQUENCE:0
 SUMMARY:2012 MFG 25-26 - Crush 2012 MFG Team Practice
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260412T201833
+UID:10115426-366545443
+DTSTART;TZID=America/New_York:20260418T151529
+DTEND;TZID=America/New_York:20260418T163529
+DESCRIPTION:Location: Fuller Park\n Players are required to wear full crush
+  kit with orange umbro jersey\, black umbro shorts and orange umbro socks.
+  Please bring green practice jersey in the event that there are conflictin
+ g uniform colors. \n\nPlayers should arrive 30 minutes prior to the start 
+ of the game for warm ups. Please list your players availability so that we
+  can arrange for subs if needed. -  \n Uniform: Orange Umbro jersey\, blac
+ k Umbro shorts\, orange Umbro socks (Arrival Time:  2:45 PM (Eastern Time 
+ (US & Canada)))
+LAST-MODIFIED:20260412T201833
+LOCATION:1519 Fuller Rd\nAnn Arbor MI 48105\nUnited States
+SEQUENCE:0
+SUMMARY:2012 MFG 25-26 vs Michigan Burn 2012G white
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260218T201122
