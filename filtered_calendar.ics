@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2026-04-18 11:39:35
+X-TS-TIMESTAMP:2026-04-18 16:57:17
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -889,20 +889,20 @@ SEQUENCE:0
 SUMMARY:2012 MFG 25-26 - Crush 2012 Girls Team Practice
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260406T132926
+DTSTAMP:20260418T093542
 UID:10115426-363004813
 DTSTART;TZID=America/New_York:20260515T190022
 DTEND;TZID=America/New_York:20260515T202022
-DESCRIPTION:Location: Fuller Park - Field #4\n Players are required to wear
-  full crush kit with orange umbro jersey\, black umbro shorts and orange u
- mbro socks. Please bring green practice jersey in the event that there are
-  conflicting uniform colors. \n\nPlayers should arrive 30 minutes prior to
-  the start of the game for warm ups. Please list your players availability
-  so that we can arrange for subs if needed. -  \n Uniform: Orange Umbro je
- rsey\, Black Umbro shorts\, orange umbro socks (Arrival Time:  6:30 PM (Ea
- stern Time (US & Canada)))
-LAST-MODIFIED:20260406T132926
-LOCATION:1519 Fuller Rd\nAnn Arbor MI 48105\nUnited States
+DESCRIPTION:Location: Olson Park - Field #4\n Players are required to wear 
+ full crush kit with orange umbro jersey\, black umbro shorts and orange um
+ bro socks. Please bring green practice jersey in the event that there are 
+ conflicting uniform colors. \n\nPlayers should arrive 30 minutes prior to 
+ the start of the game for warm ups. Please list your players availability 
+ so that we can arrange for subs if needed. -  \n Uniform: Orange Umbro jer
+ sey\, Black Umbro shorts\, orange umbro socks (Arrival Time:  6:30 PM (Eas
+ tern Time (US & Canada)))
+LAST-MODIFIED:20260418T093542
+LOCATION:1515 Dhu Varren Rd Ann Arbor\, MI\, United States
 SEQUENCE:0
 SUMMARY:2012 MFG 25-26 vs Blackhawks Sports Club 2012/2013G
 END:VEVENT
