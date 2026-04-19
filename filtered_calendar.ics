@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2026-04-19 16:57:18
+X-TS-TIMESTAMP:2026-04-19 20:57:18
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -25,24 +25,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 TZNAME:EST
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-DTSTAMP:20251019T124305
-UID:10115426-350916024
-DTSTART;TZID=America/New_York:20251019T160000
-DTEND;TZID=America/New_York:20251019T171500
-DESCRIPTION:Location: Crestwood High School (Crestwood HS Turf Field)\n Pla
- yers should wear their full Crush Uniform: Orange Crush Umbro jersey\, Bla
- ck Umbro shorts\, and Orange Umbro socks. Please bring green practice jers
- ey in soccer bags for back up in case there are conflicting uniform colors
- . Players who are not in their full Umbro kit will not be able to play.\n\
- nPlayers should arrive 30 minutes prior to the start of the game for warm 
- ups. -  \n Uniform: Orange Crush Jersey\, Black Umbro shorts\, Orange Umbr
- o socks (Arrival Time:  3:30 PM (Eastern Time (US & Canada)))
-LAST-MODIFIED:20251019T124305
-LOCATION:1501 N Beech Daly Rd Dearborn Heights\, MI\, United States
-SEQUENCE:2
-SUMMARY:2012 MFG 25-26 at Michigan Jaguars Dearborn 2012 Girls Green
-END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250923T102731
 UID:3022678-354518459
