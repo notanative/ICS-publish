@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2026-04-18 23:39:33
+X-TS-TIMESTAMP:2026-04-19 04:57:18
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -787,6 +787,74 @@ SEQUENCE:0
 SUMMARY:2012 MFG 25-26 - Crush 2012 Girls Team Practice
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260418T212015
+UID:10115426-366848868
+DTSTART;TZID=America/New_York:20260425T084507
+DTEND;TZID=America/New_York:20260425T100507
+DESCRIPTION:Location: Bowling Green State University - Field 12\n 2012's (U
+ 14) vs Delaware Knights\n\nFull orange crush kit required. Please bring gr
+ een practice jerseys for back up in the event there are conflicting jersey
+  colors. \n\nPlayers should arrive 30 minutes early for warm ups. \n\nPlea
+ se list your players availability in Team Snap. -  \n Uniform: Orange Umbr
+ o jersey\, black Umbro shorts\, orange Umbro socks (Arrival Time:  8:15 AM
+  (Eastern Time (US & Canada)))
+LAST-MODIFIED:20260418T212015
+LOCATION:1001 E Wooster St\nBowling Green OH 43403\nUnited States
+SEQUENCE:0
+SUMMARY:2012 MFG 25-26 vs Delaware Knights
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T211233
+UID:10115426-366848678
+DTSTART;TZID=America/New_York:20260425T111528
+DTEND;TZID=America/New_York:20260425T123528
+DESCRIPTION:Location: Bowling Green State University - Field 12\n Crush 201
+ 1 Team (U15) vs Delaware  County\n\nPlayers are required to wear full Crus
+ h Umbro kit. Please bring green practice jerseys for back up in the event 
+ there are conflicting jersey colors. \n\nPlayers should arrive 30 minutes 
+ early for warm ups. \n\nPlease list your players availability in Team Snap
+ . -  \n Uniform: Orange umbro jersey\, black umbro shorts\, orange umbro s
+ ocks (Arrival Time: 10:45 AM (Eastern Time (US & Canada)))
+LAST-MODIFIED:20260418T211233
+LOCATION:1001 E Wooster St\nBowling Green OH 43403\nUnited States
+SEQUENCE:0
+SUMMARY:2012 MFG 25-26 vs Delaware County
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T212229
+UID:10115426-366848900
+DTSTART;TZID=America/New_York:20260425T150023
+DTEND;TZID=America/New_York:20260425T162023
+DESCRIPTION:Location: Bowling Green State University - Field 34\n 2012's (U
+ 14) vs GCSC GU14\n\nFull orange crush kit required. Please bring green pra
+ ctice jerseys for back up in the event there are conflicting jersey colors
+ . \n\nPlayers should arrive 30 minutes early for warm ups. \n\nPlease list
+  your players availability in Team Snap. -  \n Uniform: Orange Umbro jerse
+ y\, black umbro shorts\, orange umbro socks (Arrival Time:  2:30 PM (Easte
+ rn Time (US & Canada)))
+LAST-MODIFIED:20260418T212229
+LOCATION:1001 E Wooster St\nBowling Green OH 43403\nUnited States
+SEQUENCE:0
+SUMMARY:2012 MFG 25-26 vs GCSC GU14
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T211536
+UID:10115426-366848752
+DTSTART;TZID=America/New_York:20260425T173055
+DTEND;TZID=America/New_York:20260425T185055
+DESCRIPTION:Location: Bowling Green State University - Field 35\n 2011's (U
+ 15) vs Swanton Storm\n\nFull orange crush kit required. Please bring green
+  practice jerseys for back up in the event there are conflicting jersey co
+ lors. \n\nPlayers should arrive 30 minutes early for warm ups. \n\nPlease 
+ list your players availability in Team Snap. -  \n Uniform: Orange Umbro j
+ ersey\, Black Umbro shorts\, Orange Umbro socks (Arrival Time:  5:30 PM (E
+ astern Time (US & Canada)))
+LAST-MODIFIED:20260418T211536
+LOCATION:1001 E Wooster St\nBowling Green OH 43403\nUnited States
+SEQUENCE:0
+SUMMARY:2012 MFG 25-26 vs Swanton Storm
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260226T181731
 UID:10115426-363005762
 DTSTART:20260425T000000
@@ -797,6 +865,40 @@ LAST-MODIFIED:20260226T181731
 LOCATION:1001 E Wooster St\nBowling Green OH 43403\nUnited States
 SEQUENCE:3
 SUMMARY:2012 MFG 25-26 - Bowling Green Spring Soccer Challenge
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T211738
+UID:10115426-366848807
+DTSTART;TZID=America/New_York:20260426T084542
+DTEND;TZID=America/New_York:20260426T100542
+DESCRIPTION:Location: Bowling Green State University - Field 29\n 2011's (U
+ 15) vs Medina\n\nFull orange crush kit required. Please bring green practi
+ ce jerseys for back up in the event there are conflicting jersey colors. \
+ n\nPlayers should arrive 30 minutes early for warm ups. \n\nPlease list yo
+ ur players availability in Team Snap. -  \n Uniform: Orange Umbro jersey\,
+  black Umbro shorts\, orange Umbro socks (Arrival Time:  8:15 AM (Eastern 
+ Time (US & Canada)))
+LAST-MODIFIED:20260418T211738
+LOCATION:1001 E Wooster St\nBowling Green OH 43403\nUnited States
+SEQUENCE:0
+SUMMARY:2012 MFG 25-26 vs Medina
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T212456
+UID:10115426-366848961
+DTSTART;TZID=America/New_York:20260426T100051
+DTEND;TZID=America/New_York:20260426T112051
+DESCRIPTION:Location: Bowling Green State University - Field 29\n Crush 201
+ 2's (U14) vs VBSC\n\nFull orange crush kit required. Please bring green pr
+ actice jerseys for back up in the event there are conflicting jersey color
+ s. \n\nPlayers should arrive 30 minutes early for warm ups. \n\nPlease lis
+ t your players availability in Team Snap. -  \n Uniform: Orange Umbro jers
+ ey\, black Umbro shorts\, orange Umbro socks (Arrival Time:  9:30 AM (East
+ ern Time (US & Canada)))
+LAST-MODIFIED:20260418T212456
+LOCATION:1001 E Wooster St\nBowling Green OH 43403\nUnited States
+SEQUENCE:0
+SUMMARY:2012 MFG 25-26 vs VBSC
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260218T203939
