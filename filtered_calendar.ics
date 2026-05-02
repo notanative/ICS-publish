@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2026-05-02 12:57:18
+X-TS-TIMESTAMP:2026-05-02 16:57:20
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -25,24 +25,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 TZNAME:EST
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-DTSTAMP:20250813T155136
-UID:10115426-350916173
-DTSTART;TZID=America/New_York:20251102T110000
-DTEND;TZID=America/New_York:20251102T121500
-DESCRIPTION:Location: Olson Park\n Players should wear their full Crush Uni
- form: Orange Crush Umbro jersey\, Black Umbro shorts\, and Orange Umbro so
- cks. Please bring green practice jersey in soccer bags for back up in case
-  there are conflicting uniform colors. Players who are not in their full U
- mbro kit will not be able to play.\n\nPlayers should arrive 30 minutes pri
- or to the start of the game for warm ups. -  \n Uniform: Orange Crush Jers
- ey\, Black Umbro shorts\, Orange Umbro socks (Arrival Time: 10:30 AM (East
- ern Time (US & Canada)))
-LAST-MODIFIED:20250813T155136
-LOCATION:1515 Dhu Varren Rd Ann Arbor\, MI\, United States
-SEQUENCE:0
-SUMMARY:2012 MFG 25-26 vs Detroit City FC West 12G Rouge
-END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20251028T085003
 UID:10115426-356799362
