@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2026-05-03 16:39:35
+X-TS-TIMESTAMP:2026-05-03 20:57:18
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -774,7 +774,7 @@ SEQUENCE:0
 SUMMARY:2012 MFG 25-26 - Crush 2012 Girls Team Practice
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260418T093542
+DTSTAMP:20260503T124356
 UID:10115426-363004813
 DTSTART;TZID=America/New_York:20260515T190022
 DTEND;TZID=America/New_York:20260515T202022
@@ -786,10 +786,10 @@ DESCRIPTION:Location: Olson Park - Field #4\n Players are required to wear
  so that we can arrange for subs if needed. -  \n Uniform: Orange Umbro jer
  sey\, Black Umbro shorts\, orange umbro socks (Arrival Time:  6:30 PM (Eas
  tern Time (US & Canada)))
-LAST-MODIFIED:20260418T093542
+LAST-MODIFIED:20260503T124356
 LOCATION:1515 Dhu Varren Rd Ann Arbor\, MI\, United States
 SEQUENCE:0
-SUMMARY:2012 MFG 25-26 vs Blackhawks Sports Club 2012/2013G
+SUMMARY:2012 MFG 25-26 vs Bay Area SA: BASA 12G
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260218T201517
@@ -906,7 +906,7 @@ SEQUENCE:0
 SUMMARY:2012 MFG 25-26 - Crush 2012 Girls Team Practice
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260218T202717
+DTSTAMP:20260503T125211
 UID:10115426-363004987
 DTSTART;TZID=America/New_York:20260607T130044
 DTEND;TZID=America/New_York:20260607T142044
@@ -918,10 +918,10 @@ DESCRIPTION:Location: Olson Park\n Players are required to wear full crush
  can arrange for subs if needed. -  \n Uniform: Orange Umbro jersey\, Black
   Umbro shorts\, Orange Umbro socks (Arrival Time: 12:30 PM (Eastern Time (
  US & Canada)))
-LAST-MODIFIED:20260218T202717
+LAST-MODIFIED:20260503T125211
 LOCATION:1515 Dhu Varren Rd Ann Arbor\, MI\, United States
 SEQUENCE:0
-SUMMARY:2012 MFG 25-26 vs Bay Area SA: BASA 12G
+SUMMARY:2012 MFG 25-26 vs Blackhawks Sports Club 2012/2013G
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260414T151559
