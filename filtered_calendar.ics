@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2026-05-12 00:57:17
+X-TS-TIMESTAMP:2026-05-12 04:39:34
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -856,22 +856,22 @@ SEQUENCE:0
 SUMMARY:2012 MFG 25-26 - Crush 2012 Girls Team Practice
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260503T125211
+DTSTAMP:20260511T214304
 UID:10115426-363004987
-DTSTART;TZID=America/New_York:20260607T130044
-DTEND;TZID=America/New_York:20260607T142044
-DESCRIPTION:Location: Olson Park\n Players are required to wear full crush 
- kit with orange umbro jersey\, black umbro shorts and orange umbro socks. 
- Please bring green practice jersey in the event that there are conflicting
-  uniform colors. \n\nPlayers should arrive 30 minutes prior to the start o
- f the game for warm ups. Please list your players availability so that we 
- can arrange for subs if needed. -  \n Uniform: Orange Umbro jersey\, Black
-  Umbro shorts\, Orange Umbro socks (Arrival Time: 12:30 PM (Eastern Time (
- US & Canada)))
-LAST-MODIFIED:20260503T125211
-LOCATION:1515 Dhu Varren Rd Ann Arbor\, MI\, United States
+DTSTART;TZID=America/New_York:20260605T190044
+DTEND;TZID=America/New_York:20260605T202044
+DESCRIPTION:Location: Boulan Park\n Players are required to wear full crush
+  kit with orange umbro jersey\, black umbro shorts and orange umbro socks.
+  Please bring green practice jersey in the event that there are conflictin
+ g uniform colors. \n\nPlayers should arrive 30 minutes prior to the start 
+ of the game for warm ups. Please list your players availability so that we
+  can arrange for subs if needed. -  \n Uniform: Orange Umbro jersey\, Blac
+ k Umbro shorts\, Orange Umbro socks (Arrival Time:  6:30 PM (Eastern Time 
+ (US & Canada)))
+LAST-MODIFIED:20260511T214304
+LOCATION:3671 Crooks Rd\nTroy MI 48084\nUnited States
 SEQUENCE:0
-SUMMARY:2012 MFG 25-26 vs Blackhawks Sports Club 2012/2013G
+SUMMARY:2012 MFG 25-26 at Blackhawks Sports Club 2012/2013G
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260414T151559
