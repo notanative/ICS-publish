@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2026-05-13 20:57:17
+X-TS-TIMESTAMP:2026-05-14 00:57:17
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -712,7 +712,7 @@ SEQUENCE:0
 SUMMARY:2012 MFG 25-26 - Crush 2012 Girls Team Practice
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260503T124356
+DTSTAMP:20260513T204103
 UID:10115426-363004813
 DTSTART;TZID=America/New_York:20260515T190022
 DTEND;TZID=America/New_York:20260515T202022
@@ -724,9 +724,9 @@ DESCRIPTION:Location: Olson Park - Field #4\n Players are required to wear
  so that we can arrange for subs if needed. -  \n Uniform: Orange Umbro jer
  sey\, Black Umbro shorts\, orange umbro socks (Arrival Time:  6:30 PM (Eas
  tern Time (US & Canada)))
-LAST-MODIFIED:20260503T124356
+LAST-MODIFIED:20260513T204103
 LOCATION:1515 Dhu Varren Rd Ann Arbor\, MI\, United States
-SEQUENCE:0
+SEQUENCE:2
 SUMMARY:2012 MFG 25-26 vs Bay Area SA: BASA 12G
 END:VEVENT
 BEGIN:VEVENT
