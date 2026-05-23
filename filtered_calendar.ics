@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2026-05-23 00:57:17
+X-TS-TIMESTAMP:2026-05-23 04:57:18
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -748,22 +748,22 @@ SEQUENCE:0
 SUMMARY:2012 MFG 25-26 - Crush 2012 Girls Team Practice
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260218T201810
+DTSTAMP:20260522T220308
 UID:10115426-363004389
 DTSTART;TZID=America/New_York:20260523T110029
 DTEND;TZID=America/New_York:20260523T122029
-DESCRIPTION:Location: Fuller Park\n Players are required to wear full crush
-  kit with orange umbro jersey\, black umbro shorts and orange umbro socks.
-  Please bring green practice jersey in the event that there are conflictin
- g uniform colors. \n\nPlayers should arrive 30 minutes prior to the start 
- of the game for warm ups. Please list your players availability so that we
-  can arrange for subs if needed. -  \n Uniform: Orange Umbro Jersey\, Blac
- k Umbro shorts\, Orange Umbro socks (Arrival Time: 10:30 AM (Eastern Time 
- (US & Canada)))
-LAST-MODIFIED:20260218T201810
+DESCRIPTION:[CANCELED] Location: Fuller Park\n Players are required to wear
+  full crush kit with orange umbro jersey\, black umbro shorts and orange u
+ mbro socks. Please bring green practice jersey in the event that there are
+  conflicting uniform colors. \n\nPlayers should arrive 30 minutes prior to
+  the start of the game for warm ups. Please list your players availability
+  so that we can arrange for subs if needed. -  \n Uniform: Orange Umbro Je
+ rsey\, Black Umbro shorts\, Orange Umbro socks
+LAST-MODIFIED:20260522T220308
 LOCATION:1519 Fuller Rd\nAnn Arbor MI 48105\nUnited States
 SEQUENCE:0
-SUMMARY:2012 MFG 25-26 vs Michigan Stars: Elite SC MI Stars Macomb 12G
+SUMMARY:[CANCELED] 2012 MFG 25-26 vs Michigan Stars: Elite SC MI Stars Maco
+ mb 12G
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260414T151448
