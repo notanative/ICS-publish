@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2026-10-19 16:57:18
+X-TS-TIMESTAMP:2026-10-19 20:57:22
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -25,24 +25,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 TZNAME:EST
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-DTSTAMP:20260218T201122
-UID:10115426-363003935
-DTSTART;TZID=America/New_York:20260419T140025
-DTEND;TZID=America/New_York:20260419T152025
-DESCRIPTION:Location: Lapeer High School\n Players are required to wear ful
- l crush kit with orange umbro jersey\, black umbro shorts and orange umbro
-  socks. Please bring green practice jersey in the event that there are con
- flicting uniform colors. \n\nPlayers should arrive 30 minutes prior to the
-  start of the game for warm ups. Please list your players availability so 
- that we can arrange for subs if needed. -  \n Uniform: Orange umbro jersey
- \, black umbro shorts\, orange umbro socks (Arrival Time:  1:30 PM (Easter
- n Time (US & Canada)))
-LAST-MODIFIED:20260218T201122
-LOCATION:933 S Saginaw St\nLapeer MI 48446\nUnited States
-SEQUENCE:0
-SUMMARY:2012 MFG 25-26 at Nationals Lapeer (Black)
-END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260414T151132
 UID:10115426-366654376
