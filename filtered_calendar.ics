@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2026-10-25 16:57:17
+X-TS-TIMESTAMP:2026-10-25 20:39:33
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -25,23 +25,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 TZNAME:EST
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-DTSTAMP:20260418T212229
-UID:10115426-366848900
-DTSTART;TZID=America/New_York:20260425T150023
-DTEND;TZID=America/New_York:20260425T162023
-DESCRIPTION:Location: Bowling Green State University - Field 34\n 2012's (U
- 14) vs GCSC GU14\n\nFull orange crush kit required. Please bring green pra
- ctice jerseys for back up in the event there are conflicting jersey colors
- . \n\nPlayers should arrive 30 minutes early for warm ups. \n\nPlease list
-  your players availability in Team Snap. -  \n Uniform: Orange Umbro jerse
- y\, black umbro shorts\, orange umbro socks (Arrival Time:  2:30 PM (Easte
- rn Time (US & Canada)))
-LAST-MODIFIED:20260418T212229
-LOCATION:1001 E Wooster St\nBowling Green OH 43403\nUnited States
-SEQUENCE:0
-SUMMARY:2012 MFG 25-26 vs GCSC GU14
-END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260418T211536
 UID:10115426-366848752
