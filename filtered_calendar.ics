@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2026-10-25 11:39:33
+X-TS-TIMESTAMP:2026-10-25 16:57:17
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -25,40 +25,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 TZNAME:EST
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-DTSTAMP:20260418T212015
-UID:10115426-366848868
-DTSTART;TZID=America/New_York:20260425T084507
-DTEND;TZID=America/New_York:20260425T100507
-DESCRIPTION:Location: Bowling Green State University - Field 12\n 2012's (U
- 14) vs Delaware Knights\n\nFull orange crush kit required. Please bring gr
- een practice jerseys for back up in the event there are conflicting jersey
-  colors. \n\nPlayers should arrive 30 minutes early for warm ups. \n\nPlea
- se list your players availability in Team Snap. -  \n Uniform: Orange Umbr
- o jersey\, black Umbro shorts\, orange Umbro socks (Arrival Time:  8:15 AM
-  (Eastern Time (US & Canada)))
-LAST-MODIFIED:20260418T212015
-LOCATION:1001 E Wooster St\nBowling Green OH 43403\nUnited States
-SEQUENCE:0
-SUMMARY:2012 MFG 25-26 vs Delaware Knights
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260418T211233
-UID:10115426-366848678
-DTSTART;TZID=America/New_York:20260425T111528
-DTEND;TZID=America/New_York:20260425T123528
-DESCRIPTION:Location: Bowling Green State University - Field 12\n Crush 201
- 1 Team (U15) vs Delaware  County\n\nPlayers are required to wear full Crus
- h Umbro kit. Please bring green practice jerseys for back up in the event 
- there are conflicting jersey colors. \n\nPlayers should arrive 30 minutes 
- early for warm ups. \n\nPlease list your players availability in Team Snap
- . -  \n Uniform: Orange umbro jersey\, black umbro shorts\, orange umbro s
- ocks (Arrival Time: 10:45 AM (Eastern Time (US & Canada)))
-LAST-MODIFIED:20260418T211233
-LOCATION:1001 E Wooster St\nBowling Green OH 43403\nUnited States
-SEQUENCE:0
-SUMMARY:2012 MFG 25-26 vs Delaware County
-END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260418T212229
 UID:10115426-366848900
