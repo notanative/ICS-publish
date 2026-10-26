@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2026-10-26 12:57:18
+X-TS-TIMESTAMP:2026-10-26 16:57:17
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -25,23 +25,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 TZNAME:EST
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-DTSTAMP:20260418T212456
-UID:10115426-366848961
-DTSTART;TZID=America/New_York:20260426T100051
-DTEND;TZID=America/New_York:20260426T112051
-DESCRIPTION:Location: Bowling Green State University - Field 29\n Crush 201
- 2's (U14) vs VBSC\n\nFull orange crush kit required. Please bring green pr
- actice jerseys for back up in the event there are conflicting jersey color
- s. \n\nPlayers should arrive 30 minutes early for warm ups. \n\nPlease lis
- t your players availability in Team Snap. -  \n Uniform: Orange Umbro jers
- ey\, black Umbro shorts\, orange Umbro socks (Arrival Time:  9:30 AM (East
- ern Time (US & Canada)))
-LAST-MODIFIED:20260418T212456
-LOCATION:1001 E Wooster St\nBowling Green OH 43403\nUnited States
-SEQUENCE:0
-SUMMARY:2012 MFG 25-26 vs VBSC
-END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260218T203939
 UID:10115426-363005763
