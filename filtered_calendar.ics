@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2026-10-26 08:39:33
+X-TS-TIMESTAMP:2026-10-26 12:57:18
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -25,23 +25,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 TZNAME:EST
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-DTSTAMP:20260418T211738
-UID:10115426-366848807
-DTSTART;TZID=America/New_York:20260426T084542
-DTEND;TZID=America/New_York:20260426T100542
-DESCRIPTION:Location: Bowling Green State University - Field 29\n 2011's (U
- 15) vs Medina\n\nFull orange crush kit required. Please bring green practi
- ce jerseys for back up in the event there are conflicting jersey colors. \
- n\nPlayers should arrive 30 minutes early for warm ups. \n\nPlease list yo
- ur players availability in Team Snap. -  \n Uniform: Orange Umbro jersey\,
-  black Umbro shorts\, orange Umbro socks (Arrival Time:  8:15 AM (Eastern 
- Time (US & Canada)))
-LAST-MODIFIED:20260418T211738
-LOCATION:1001 E Wooster St\nBowling Green OH 43403\nUnited States
-SEQUENCE:0
-SUMMARY:2012 MFG 25-26 vs Medina
-END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260418T212456
 UID:10115426-366848961
