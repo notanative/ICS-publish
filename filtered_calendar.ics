@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2026-11-03 13:57:18
+X-TS-TIMESTAMP:2026-11-03 17:57:18
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -25,24 +25,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 TZNAME:EST
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-DTSTAMP:20260226T101708
-UID:10115426-363497246
-DTSTART;TZID=America/New_York:20260503T093018
-DTEND;TZID=America/New_York:20260503T105018
-DESCRIPTION:Location: Keith Sports Park\n Players are required to wear full
-  crush kit with orange umbro jersey\, black umbro shorts and orange umbro 
- socks. Please bring green practice jersey in the event that there are conf
- licting uniform colors. \n\nPlayers should arrive 30 minutes prior to the 
- start of the game for warm ups. Please list your players availability so t
- hat we can arrange for subs if needed. -  \n Uniform: Orange Crush Jersey\
- , Black Crush shorts\, Orange Umbro socks (Arrival Time:  9:00 AM (Eastern
-  Time (US & Canada)))
-LAST-MODIFIED:20260226T101708
-LOCATION:2750 Keith Rd\nWest Bloomfield MI 48324\nUnited States
-SEQUENCE:0
-SUMMARY:2012 MFG 25-26 at MI Jaguars WB 2012 Girls Green
-END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260414T151559
 UID:10115426-366654710
