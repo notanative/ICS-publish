@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2026-11-17 13:39:36
+X-TS-TIMESTAMP:2026-11-17 17:57:18
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -25,24 +25,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 TZNAME:EST
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-DTSTAMP:20260218T201517
-UID:10115426-363004151
-DTSTART;TZID=America/New_York:20260517T110044
-DTEND;TZID=America/New_York:20260517T122044
-DESCRIPTION:Location: Olson Park\n Players are required to wear full crush 
- kit with orange umbro jersey\, black umbro shorts and orange umbro socks. 
- Please bring green practice jersey in the event that there are conflicting
-  uniform colors. \n\nPlayers should arrive 30 minutes prior to the start o
- f the game for warm ups. Please list your players availability so that we 
- can arrange for subs if needed. -  \n Uniform: Orange umbro jersey\, black
-  umbro short\, orsnge umbro socks (Arrival Time: 10:30 AM (Eastern Time (U
- S & Canada)))
-LAST-MODIFIED:20260218T201517
-LOCATION:1515 Dhu Varren Rd Ann Arbor\, MI\, United States
-SEQUENCE:0
-SUMMARY:2012 MFG 25-26 vs Oxford FC Oxford wildcats (gold)
-END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260414T151559
 UID:10115426-366654712
