@@ -7,7 +7,7 @@ X-WR-CALNAME:Aron Butler
 X-WR-CALDESC:The event schedule for Aron Butler's teams
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2026-11-23 13:39:34
+X-TS-TIMESTAMP:2026-11-23 17:57:18
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -25,24 +25,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 TZNAME:EST
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-DTSTAMP:20260522T220308
-UID:10115426-363004389
-DTSTART;TZID=America/New_York:20260523T110029
-DTEND;TZID=America/New_York:20260523T122029
-DESCRIPTION:[CANCELED] Location: Fuller Park\n Players are required to wear
-  full crush kit with orange umbro jersey\, black umbro shorts and orange u
- mbro socks. Please bring green practice jersey in the event that there are
-  conflicting uniform colors. \n\nPlayers should arrive 30 minutes prior to
-  the start of the game for warm ups. Please list your players availability
-  so that we can arrange for subs if needed. -  \n Uniform: Orange Umbro Je
- rsey\, Black Umbro shorts\, Orange Umbro socks
-LAST-MODIFIED:20260522T220308
-LOCATION:1519 Fuller Rd\nAnn Arbor MI 48105\nUnited States
-SEQUENCE:0
-SUMMARY:[CANCELED] 2012 MFG 25-26 vs Michigan Stars: Elite SC MI Stars Maco
- mb 12G
-END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260527T170602
 UID:10115426-366654635
